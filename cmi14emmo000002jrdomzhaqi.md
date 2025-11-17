@@ -5,6 +5,7 @@ seoDescription: "Inicia una nueva serie de 'El Puente al ML'. Usamos Datos Abier
 datePublished: Sun Nov 16 2025 02:52:39 GMT+0000 (Coordinated Universal Time)
 cuid: cmi14emmo000002jrdomzhaqi
 slug: explorando-el-desarrollo-regional-con-datos-abiertos
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763409863189/9cbee627-2e1c-41b5-971c-d540f68e4fa1.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1763261358732/d99835e4-e398-4fbd-a628-0e951e788d92.png
 tags: tutorial, python, data-science, machine-learning, python3, ia, open-data, power-bi, powerbi, forecasting, cienciadedatos, bcie
 
