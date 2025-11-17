@@ -65,7 +65,7 @@ Antes de saltar al código de Python, es fundamental "sentir" los datos. He cone
 
 Aquí puedes explorar los datos históricos tú mismo. Filtra por país, sector o tipo de socio para ver cómo han cambiado las tendencias a lo largo del tiempo.
 
-<iframe title="Dashboard Ejecutivo BCIE" width="1024" height="630" src="https://app.powerbi.com/view?r=eyJrIjoiNzQyODk0NmUtMjdjOC00YWY5LWFmNTgtYzc1MTMzYzM1NTA1IiwidCI6IjllMzU0NTU4LWU1YzYtNDY2NC04MzJiLTMwY2M0ODU0Yzk2NSJ9&pageName=4e8af9fd0e3c00033016" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard Ejecutivo BCIE" width="800" height="530" src="https://app.powerbi.com/view?r=eyJrIjoiNzQyODk0NmUtMjdjOC00YWY5LWFmNTgtYzc1MTMzYzM1NTA1IiwidCI6IjllMzU0NTU4LWU1YzYtNDY2NC04MzJiLTMwY2M0ODU0Yzk2NSJ9&pageName=4e8af9fd0e3c00033016" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
@@ -77,8 +77,42 @@ Al explorar los datos en el dashboard de arriba (específicamente filtrando desd
 
 Vemos un **efecto inverso**: menos proyectos, pero mucho más grandes, alcanzando un pico histórico de monto aprobado en 2022.
 
-![Evolución de Aprobaciones BCIE 2010-2025](https://quickchart.io/chart?width=800&height=450&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222010%22%2C%222011%22%2C%222012%22%2C%222013%22%2C%222014%22%2C%222015%22%2C%222016%22%2C%222017%22%2C%222018%22%2C%222019%22%2C%222020%22%2C%222021%22%2C%222022%22%2C%222023%22%2C%222024%22%2C%222025%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Monto%20Aprobado%20(Millones%20USD)%22%2C%22yAxisID%22%3A%22A%22%2C%22borderColor%22%3A%22%232BCE75%22%2C%22backgroundColor%22%3A%22rgba(0%2C0%2C0%2C0)%22%2C%22pointBackgroundColor%22%3A%22rgba(255%2C255%2C255%2C0.2)%22%2C%22pointBorderColor%22%3A%22%232BCE75%22%2C%22pointBorderWidth%22%3A2%2C%22pointRadius%22%3A4%2C%22data%22%3A%5B1519%2C1630%2C1564%2C1384%2C1601%2C1856%2C2105%2C1925%2C2443%2C2637%2C3459%2C3689%2C4290%2C3587%2C2229%2C2328%5D%2C%22fill%22%3Afalse%2C%22tension%22%3A0.4%7D%2C%7B%22label%22%3A%22Cantidad%20Aprobaciones%22%2C%22yAxisID%22%3A%22B%22%2C%22borderColor%22%3A%22%23091F5A%22%2C%22backgroundColor%22%3A%22rgba(0%2C0%2C0%2C0)%22%2C%22pointBackgroundColor%22%3A%22rgba(255%2C255%2C255%2C0.2)%22%2C%22pointBorderColor%22%3A%22%23091F5A%22%2C%22pointBorderWidth%22%3A2%2C%22pointRadius%22%3A4%2C%22data%22%3A%5B52%2C36%2C31%2C27%2C33%2C32%2C26%2C24%2C24%2C21%2C26%2C28%2C29%2C16%2C12%2C16%5D%2C%22fill%22%3Afalse%2C%22tension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23888%22%2C%22usePointStyle%22%3Atrue%2C%22boxWidth%22%3A6%7D%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23888%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(128%2C128%2C128%2C0.2)%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22id%22%3A%22A%22%2C%22type%22%3A%22linear%22%2C%22position%22%3A%22left%22%2C%22ticks%22%3A%7B%22fontColor%22%3A%22%232BCE75%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(128%2C128%2C128%2C0.2)%22%7D%7D%2C%7B%22id%22%3A%22B%22%2C%22type%22%3A%22linear%22%2C%22position%22%3A%22right%22%2C%22ticks%22%3A%7B%22fontColor%22%3A%22%23091F5A%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D)
-<br>
+<div style="
+  max-width: 840px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  padding: 2px 2px 2px 2px;
+">
+  <iframe
+    src="https://quickchart.io/chart-maker/view/zm-667062a9-03e5-4c46-82aa-0214a04416dc"
+    frameborder="0"
+    style="
+      width: 100%;
+      height: 500px;
+      border: 0;
+      border-radius: 18px;
+      overflow: hidden;
+      background: #ffffff;
+    "
+  ></iframe>
+
+  <div
+    style="
+      margin-top: 5px;
+      height: 4px;
+      border-radius: 999px;
+      background: linear-gradient(90deg,#2BCE75,#091F5A);
+      opacity: 0.7;
+    "
+  ></div>
+</div>
+
+
+
+
+
 *El 'efecto inverso' en acción (2010-2025): Curvas suavizadas muestran la divergencia entre el monto aprobado (verde, eje izq) y la cantidad de operaciones (azul, eje der). Datos extraídos del portal oficial.*
 
 Este no es un dataset estático; es un reflejo de una estrategia institucional viva. Con esto en mente, tenemos dos objetivos:
