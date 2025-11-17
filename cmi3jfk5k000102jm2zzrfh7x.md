@@ -109,12 +109,6 @@ Vemos un **efecto inverso**: menos proyectos, pero mucho más grandes, alcanzand
   ></div>
 </div>
 
-
-
-
-
-*El 'efecto inverso' en acción (2010-2025): Curvas suavizadas muestran la divergencia entre el monto aprobado (verde, eje izq) y la cantidad de operaciones (azul, eje der). Datos extraídos del portal oficial.*
-
 Este no es un dataset estático; es un reflejo de una estrategia institucional viva. Con esto en mente, tenemos dos objetivos:
 
 1.  **El Objetivo de Negocio (Valor Cuantificado):** ¿Podemos pronosticar esta nueva dinámica para los próximos 5 años? Un modelo preciso (ej. con un error < 15%) permitiría al banco **anticipar las necesidades de liquidez por país** o **informar al equipo de riesgo soberano** sobre la cartera de crédito proyectada.
