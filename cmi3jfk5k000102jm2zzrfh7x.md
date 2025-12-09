@@ -4,7 +4,8 @@ seoTitle: "Datos Abiertos BCIE y Machine Learning"
 seoDescription: "Inicia una nueva serie de 'El Puente al ML'. Usamos Datos Abiertos del BCIE para analizar aprobaciones, explorar en Power BI y preparar modelos de ML."
 datePublished: Mon Nov 17 2025 19:28:49 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3jfk5k000102jm2zzrfh7x
-slug: explorando-el-desarrollo-re
+slug: explorando-el-desa
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765292516340/6f8cfb00-118c-4bab-8b88-fef3264b244f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1763407692978/05f96a2e-3f42-407f-a486-d77a3eef19c2.png
 tags: tutorial, python, data-science, machine-learning, ia, py, open-data, power-bi, powerbi, forecast, cienciadedatos, bcie
 
