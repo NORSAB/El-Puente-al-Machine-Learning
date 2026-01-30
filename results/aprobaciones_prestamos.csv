@@ -1,0 +1,610 @@
+pais,_id,anio_aprobacion,sector_institucional,monto_bruto_usd,cantidad_aprobaciones,origen
+Costa Rica,1,2012,Sector Privado,3000000.0,1,prestamos
+Argentina,2,2022,Sector Público,115000000.0,4,prestamos
+Argentina,3,2015,Sector Público,50000000.0,1,prestamos
+Argentina,4,2017,Sector Público,30000000.0,1,prestamos
+Costa Rica,5,2003,Sector Privado,54336000.0,12,prestamos
+Belice,6,2014,Sector Público,30000000.0,1,prestamos
+Belice,7,2009,Sector Público,1905800.0,1,prestamos
+Colombia,8,2008,Sector Privado,5000000.0,1,prestamos
+Costa Rica,9,1965,Sector Privado,1284100.0,4,prestamos
+Costa Rica,10,1981,Sector Privado,2771000.0,4,prestamos
+Costa Rica,11,1986,Sector Público,3000000.0,1,prestamos
+Costa Rica,12,1985,Sector Público,6600000.0,2,prestamos
+Argentina,13,2021,Sector Público,150000000.0,3,prestamos
+Costa Rica,14,1963,Sector Privado,62000.0,2,prestamos
+Costa Rica,15,1969,Sector Privado,604600.0,6,prestamos
+Costa Rica,16,1978,Sector Privado,7735000.0,5,prestamos
+Argentina,17,2023,Sector Público,625000000.0,3,prestamos
+Argentina,18,2016,Sector Público,90000000.0,2,prestamos
+Costa Rica,19,1967,Sector Privado,1164600.0,5,prestamos
+Costa Rica,20,1994,Sector Privado,78026000.0,31,prestamos
+Costa Rica,21,1976,Sector Privado,4439000.0,5,prestamos
+Costa Rica,22,1971,Sector Privado,2816075.0,9,prestamos
+Colombia,23,2005,Sector Público,71120000.0,2,prestamos
+Costa Rica,24,1968,Sector Privado,761000.0,3,prestamos
+Costa Rica,25,1999,Sector Privado,18809037.0,5,prestamos
+Argentina,26,2018,Sector Público,32000000.0,1,prestamos
+Costa Rica,27,1974,Sector Privado,9478100.0,11,prestamos
+Costa Rica,28,2013,Sector Privado,34775000.0,4,prestamos
+Costa Rica,29,1992,Sector Privado,9200145.0,7,prestamos
+Costa Rica,30,1989,Sector Público,38000000.0,4,prestamos
+Costa Rica,31,1995,Sector Privado,40150000.0,16,prestamos
+Costa Rica,32,2000,Sector Privado,38630000.0,7,prestamos
+Colombia,33,2011,Sector Público,50000000.0,1,prestamos
+Costa Rica,34,1991,Sector Privado,4200000.0,1,prestamos
+Costa Rica,35,1988,Sector Público,23000000.0,5,prestamos
+Costa Rica,36,1973,Sector Privado,8680000.0,11,prestamos
+Argentina,37,2024,Sector Público,230000000.0,1,prestamos
+Costa Rica,38,1990,Sector Público,28375000.0,4,prestamos
+Costa Rica,39,1977,Sector Privado,2000000.0,1,prestamos
+Argentina,40,2019,Sector Público,67000000.0,1,prestamos
+Costa Rica,41,1982,Sector Privado,8500000.0,1,prestamos
+Colombia,42,2007,Sector Privado,136948000.0,1,prestamos
+Argentina,43,2025,Sector Público,100000000.0,1,prestamos
+Costa Rica,44,2012,Sector Público,350000000.0,4,prestamos
+Belice,45,2022,Sector Público,24000000.0,1,prestamos
+Colombia,46,2015,Sector Público,136000000.0,1,prestamos
+Colombia,47,2017,Sector Público,50000000.0,1,prestamos
+Costa Rica,48,2003,Sector Público,118330255.46000001,3,prestamos
+Colombia,49,2014,Sector Público,50000000.0,1,prestamos
+Costa Rica,50,1975,Sector Privado,5828000.0,4,prestamos
+Costa Rica,51,2008,Sector Privado,27000000.0,11,prestamos
+Costa Rica,52,1965,Sector Público,2000000.0,2,prestamos
+Costa Rica,53,1981,Sector Público,19000000.0,4,prestamos
+El Salvador,54,1986,Sector Privado,400000.0,1,prestamos
+El Salvador,55,1985,Sector Público,1980000.0,1,prestamos
+Costa Rica,56,2021,Sector Público,580000000.0,2,prestamos
+El Salvador,57,1963,Sector Privado,2426600.0,5,prestamos
+Costa Rica,58,1969,Sector Público,13134000.0,10,prestamos
+Costa Rica,59,1978,Sector Público,37020000.0,7,prestamos
+Belice,60,2010,Sector Público,10667410.0,2,prestamos
+Costa Rica,61,1993,Sector Privado,25000000.0,20,prestamos
+Costa Rica,62,1967,Sector Público,5990000.0,2,prestamos
+Costa Rica,63,1994,Sector Público,65784244.0,11,prestamos
+Costa Rica,64,1976,Sector Público,37043000.0,9,prestamos
+Costa Rica,65,1971,Sector Público,6200000.0,3,prestamos
+Costa Rica,66,1979,Sector Privado,12000000.0,4,prestamos
+Costa Rica,67,1968,Sector Público,3022000.0,5,prestamos
+Costa Rica,68,1999,Sector Público,73333101.0,4,prestamos
+Argentina,69,2020,Sector Público,50000000.0,1,prestamos
+Costa Rica,70,1974,Sector Público,40330000.0,18,prestamos
+Costa Rica,71,2013,Sector Público,515000000.0,4,prestamos
+Costa Rica,72,1992,Sector Público,45965600.0,6,prestamos
+El Salvador,73,1989,Sector Público,12000000.0,3,prestamos
+Costa Rica,74,1995,Sector Público,60035316.0,5,prestamos
+Costa Rica,75,2000,Sector Público,74091406.0,4,prestamos
+Costa Rica,76,2011,Sector Privado,31000000.0,5,prestamos
+Costa Rica,77,1991,Sector Público,32700000.0,3,prestamos
+El Salvador,78,1988,Sector Público,16740000.0,4,prestamos
+Costa Rica,79,1973,Sector Público,25900000.0,8,prestamos
+Costa Rica,80,2024,Sector Público,770000000.0,1,prestamos
+El Salvador,81,1990,Sector Público,37670000.0,5,prestamos
+Costa Rica,82,1977,Sector Público,18760000.0,5,prestamos
+Costa Rica,83,1966,Sector Privado,3118500.0,6,prestamos
+Costa Rica,84,1982,Sector Público,8000000.0,2,prestamos
+Colombia,85,2007,Sector Público,50000000.0,1,prestamos
+Colombia,86,2025,Sector Público,75000000.0,1,prestamos
+El Salvador,87,2012,Sector Privado,18000000.0,3,prestamos
+Colombia,88,2022,Sector Público,250000000.0,1,prestamos
+Costa Rica,89,2015,Sector Privado,73000000.0,4,prestamos
+Costa Rica,90,1964,Sector Privado,1123435.0,6,prestamos
+El Salvador,91,2003,Sector Privado,29976300.0,13,prestamos
+Costa Rica,92,2002,Sector Privado,70164000.0,13,prestamos
+Costa Rica,93,1975,Sector Público,26066000.0,9,prestamos
+Costa Rica,94,2008,Sector Público,172390000.0,5,prestamos
+El Salvador,95,1965,Sector Privado,5096700.0,7,prestamos
+El Salvador,96,1981,Sector Privado,481100.0,2,prestamos
+El Salvador,97,1986,Sector Público,13000000.0,1,prestamos
+Guatemala,98,1985,Sector Público,8000000.0,1,prestamos
+El Salvador,99,2021,Sector Privado,20000000.0,1,prestamos
+El Salvador,100,1963,Sector Público,20000.0,1,prestamos
+El Salvador,101,1969,Sector Privado,3610130.0,9,prestamos
+Costa Rica,102,1980,Sector Privado,5761288.0,6,prestamos
+Belice,103,2023,Sector Público,2500000.0,1,prestamos
+Costa Rica,104,1993,Sector Público,21750000.0,4,prestamos
+El Salvador,105,1967,Sector Privado,986000.0,4,prestamos
+El Salvador,106,1994,Sector Privado,24313000.0,17,prestamos
+Costa Rica,107,1998,Sector Privado,84786168.0,24,prestamos
+Costa Rica,108,1983,Sector Privado,1800000.0,1,prestamos
+Costa Rica,109,1979,Sector Público,33110000.0,9,prestamos
+El Salvador,110,1968,Sector Privado,1525700.0,5,prestamos
+El Salvador,111,1999,Sector Privado,61619477.0,6,prestamos
+Costa Rica,112,2018,Sector Público,530284067.0,3,prestamos
+Costa Rica,113,1984,Sector Público,1650000.0,1,prestamos
+El Salvador,114,2013,Sector Público,199208600.0,4,prestamos
+El Salvador,115,1992,Sector Privado,14000000.0,3,prestamos
+Guatemala,116,1989,Sector Privado,99000.0,1,prestamos
+El Salvador,117,1995,Sector Privado,71513548.0,13,prestamos
+El Salvador,118,2000,Sector Privado,7830000.0,1,prestamos
+Costa Rica,119,2011,Sector Público,499000000.0,3,prestamos
+El Salvador,120,1991,Sector Público,1000000.0,1,prestamos
+Honduras,121,1988,Sector Público,37600000.0,10,prestamos
+El Salvador,122,1973,Sector Privado,9430000.0,8,prestamos
+El Salvador,123,2024,Sector Público,263900000.0,2,prestamos
+Guatemala,124,1990,Sector Privado,15220600.0,2,prestamos
+El Salvador,125,1977,Sector Público,14100000.0,2,prestamos
+Costa Rica,126,1966,Sector Público,4700000.0,1,prestamos
+El Salvador,127,1982,Sector Privado,2000000.0,3,prestamos
+Costa Rica,128,2001,Sector Privado,31000000.0,4,prestamos
+Costa Rica,129,1996,Sector Privado,35521099.0,21,prestamos
+El Salvador,130,2012,Sector Público,193161825.0,3,prestamos
+Costa Rica,131,1987,Sector Privado,1000000.0,1,prestamos
+Costa Rica,132,2015,Sector Público,202587964.87,2,prestamos
+Costa Rica,133,1964,Sector Público,1163000.0,2,prestamos
+El Salvador,134,2003,Sector Público,143500000.0,3,prestamos
+Costa Rica,135,2002,Sector Público,280000000.0,6,prestamos
+Costa Rica,136,2009,Sector Privado,32900000.0,5,prestamos
+El Salvador,137,2008,Sector Privado,15261000.0,3,prestamos
+El Salvador,138,1965,Sector Público,1066000.0,2,prestamos
+El Salvador,139,1981,Sector Público,9200000.0,4,prestamos
+Honduras,140,1986,Sector Público,16675000.0,6,prestamos
+Honduras,141,1985,Sector Público,9150000.0,2,prestamos
+El Salvador,142,2021,Sector Público,864700000.0,3,prestamos
+Guatemala,143,1963,Sector Privado,3327500.0,11,prestamos
+El Salvador,144,1969,Sector Público,7250000.0,3,prestamos
+Costa Rica,145,1980,Sector Público,20970000.0,7,prestamos
+Colombia,146,2010,Sector Privado,35321000.0,1,prestamos
+Costa Rica,147,2016,Sector Privado,50000000.0,1,prestamos
+Guatemala,148,1967,Sector Privado,292000.0,2,prestamos
+El Salvador,149,1994,Sector Público,144238000.0,9,prestamos
+Costa Rica,150,1998,Sector Público,56698182.0,3,prestamos
+Costa Rica,151,1983,Sector Público,15402200.0,3,prestamos
+Costa Rica,152,1997,Sector Privado,26300000.0,13,prestamos
+El Salvador,153,1968,Sector Público,7900000.0,2,prestamos
+Guatemala,154,1999,Sector Privado,56093000.0,10,prestamos
+Costa Rica,155,2020,Sector Privado,6000000.0,1,prestamos
+El Salvador,156,1974,Sector Privado,8070000.0,6,prestamos
+Guatemala,157,2013,Sector Privado,18750000.0,1,prestamos
+El Salvador,158,1992,Sector Público,36800000.0,4,prestamos
+Guatemala,159,1989,Sector Público,7000000.0,3,prestamos
+El Salvador,160,1995,Sector Público,21150000.0,2,prestamos
+El Salvador,161,2000,Sector Público,80000000.0,2,prestamos
+El Salvador,162,2011,Sector Privado,53625000.0,5,prestamos
+Guatemala,163,1991,Sector Privado,6500000.0,1,prestamos
+El Salvador,164,1973,Sector Público,6560000.0,3,prestamos
+Guatemala,165,1961,Sector Privado,275000.0,1,prestamos
+Guatemala,166,1990,Sector Público,28600000.0,4,prestamos
+Guatemala,167,1977,Sector Privado,3000000.0,1,prestamos
+Costa Rica,168,2004,Sector Privado,34790000.0,9,prestamos
+El Salvador,169,1982,Sector Público,17800000.0,2,prestamos
+Costa Rica,170,2001,Sector Público,130853800.0,3,prestamos
+Costa Rica,171,1996,Sector Público,67254960.0,8,prestamos
+Guatemala,172,2012,Sector Privado,86288817.45,5,prestamos
+Costa Rica,173,1987,Sector Público,17200000.0,6,prestamos
+El Salvador,174,2015,Sector Privado,90000000.0,5,prestamos
+Costa Rica,175,2017,Sector Privado,1350000.0,1,prestamos
+Guatemala,176,2003,Sector Privado,47050000.0,10,prestamos
+Costa Rica,177,2014,Sector Privado,21000000.0,4,prestamos
+Costa Rica,178,2009,Sector Público,343538203.07,6,prestamos
+El Salvador,179,2008,Sector Público,284605000.0,5,prestamos
+Guatemala,180,1965,Sector Privado,1751090.0,7,prestamos
+Guatemala,181,1981,Sector Privado,6300000.0,4,prestamos
+Guatemala,182,2021,Sector Privado,7000000.0,1,prestamos
+Guatemala,183,1963,Sector Público,107000.0,1,prestamos
+Guatemala,184,1969,Sector Privado,1915000.0,4,prestamos
+El Salvador,185,1978,Sector Privado,11020000.0,12,prestamos
+Colombia,186,2023,Sector Público,250000000.0,1,prestamos
+Costa Rica,187,2016,Sector Público,291842413.0,3,prestamos
+Guatemala,188,1967,Sector Público,6433000.0,2,prestamos
+Guatemala,189,1994,Sector Privado,37259235.0,23,prestamos
+Costa Rica,190,2006,Sector Privado,135600000.0,19,prestamos
+El Salvador,191,1971,Sector Privado,2257157.14,7,prestamos
+Costa Rica,192,1997,Sector Público,92407500.0,3,prestamos
+Guatemala,193,1968,Sector Privado,1657000.0,5,prestamos
+Guatemala,194,1999,Sector Público,87274200.0,5,prestamos
+Costa Rica,195,2020,Sector Público,699160000.0,2,prestamos
+El Salvador,196,1974,Sector Público,4750000.0,5,prestamos
+Honduras,197,2013,Sector Privado,56802700.0,2,prestamos
+Guatemala,198,1992,Sector Privado,11660000.0,7,prestamos
+Honduras,199,1989,Sector Público,48000000.0,4,prestamos
+Guatemala,200,1995,Sector Privado,98925000.0,36,prestamos
+Guatemala,201,2000,Sector Privado,23500000.0,4,prestamos
+El Salvador,202,2011,Sector Público,232212173.8,4,prestamos
+Guatemala,203,1991,Sector Público,5200000.0,2,prestamos
+Guatemala,204,1973,Sector Privado,7391620.0,7,prestamos
+Guatemala,205,2024,Sector Privado,19000000.0,2,prestamos
+Honduras,206,1990,Sector Público,58900000.0,9,prestamos
+Guatemala,207,1977,Sector Público,11800000.0,5,prestamos
+Costa Rica,208,2004,Sector Público,147000000.0,3,prestamos
+Guatemala,209,1982,Sector Privado,500000.0,1,prestamos
+Costa Rica,210,2007,Sector Privado,505200000.0,23,prestamos
+Costa Rica,211,2025,Sector Público,815000000.0,2,prestamos
+Guatemala,212,2012,Sector Público,280000000.0,1,prestamos
+Costa Rica,213,2022,Sector Público,1190000000.0,3,prestamos
+El Salvador,214,2015,Sector Público,250521814.0,5,prestamos
+Costa Rica,215,2017,Sector Público,214410000.0,3,prestamos
+Guatemala,216,2003,Sector Público,52600000.0,2,prestamos
+Costa Rica,217,2014,Sector Público,308000000.0,4,prestamos
+El Salvador,218,1975,Sector Privado,3120000.0,4,prestamos
+Guatemala,219,2008,Sector Privado,97894000.0,15,prestamos
+Guatemala,220,1965,Sector Público,437000.0,1,prestamos
+Guatemala,221,1981,Sector Público,19189000.0,4,prestamos
+Honduras,222,2021,Sector Privado,2500000.0,1,prestamos
+Honduras,223,1963,Sector Privado,3767400.0,7,prestamos
+Guatemala,224,1969,Sector Público,5450000.0,3,prestamos
+El Salvador,225,1978,Sector Público,24500000.0,1,prestamos
+Costa Rica,226,1970,Sector Privado,2410000.0,5,prestamos
+El Salvador,227,1993,Sector Privado,18290000.0,13,prestamos
+Honduras,228,1967,Sector Privado,721300.0,4,prestamos
+Guatemala,229,1994,Sector Público,46883400.0,3,prestamos
+Costa Rica,230,2006,Sector Público,613265400.0,9,prestamos
+El Salvador,231,1971,Sector Público,2600000.0,2,prestamos
+Costa Rica,232,2005,Sector Privado,49089300.0,6,prestamos
+Guatemala,233,1968,Sector Público,5767000.0,2,prestamos
+Honduras,234,1999,Sector Privado,18848000.0,3,prestamos
+El Salvador,235,2018,Sector Público,283500000.0,3,prestamos
+El Salvador,236,1984,Sector Público,7600000.0,1,prestamos
+Honduras,237,2013,Sector Público,103000000.0,4,prestamos
+Honduras,238,1992,Sector Privado,14705167.0,14,prestamos
+Nicaragua,239,1989,Sector Público,4650000.0,5,prestamos
+Guatemala,240,1995,Sector Público,12000000.0,3,prestamos
+Guatemala,241,2000,Sector Público,52500000.0,2,prestamos
+Guatemala,242,2011,Sector Privado,64650000.0,4,prestamos
+Honduras,243,1991,Sector Público,54100000.0,8,prestamos
+Guatemala,244,1973,Sector Público,11361000.0,5,prestamos
+Honduras,245,2024,Sector Público,476300000.0,3,prestamos
+Nicaragua,246,1990,Sector Público,30000000.0,3,prestamos
+Honduras,247,1977,Sector Privado,3328000.0,6,prestamos
+Costa Rica,248,2019,Sector Público,640055000.0,2,prestamos
+Guatemala,249,1982,Sector Público,36100000.0,3,prestamos
+Costa Rica,250,2007,Sector Público,145000000.0,2,prestamos
+El Salvador,251,1996,Sector Privado,54254000.0,18,prestamos
+Honduras,252,2012,Sector Privado,24400000.0,1,prestamos
+Cuba,253,2022,Sector Público,50000000.0,1,prestamos
+Guatemala,254,2015,Sector Privado,10000000.0,1,prestamos
+El Salvador,255,1964,Sector Privado,451500.0,3,prestamos
+Honduras,256,2003,Sector Privado,129896660.0,17,prestamos
+El Salvador,257,2002,Sector Privado,79080000.0,10,prestamos
+El Salvador,258,1975,Sector Público,18320000.0,3,prestamos
+Guatemala,259,2008,Sector Público,278000000.0,3,prestamos
+Honduras,260,1965,Sector Privado,1630467.0,7,prestamos
+Honduras,261,1981,Sector Privado,5952200.0,4,prestamos
+Honduras,262,2021,Sector Público,717766365.18,6,prestamos
+Honduras,263,1963,Sector Público,349500.0,2,prestamos
+Honduras,264,1969,Sector Privado,2575300.0,11,prestamos
+El Salvador,265,1980,Sector Privado,7480000.0,3,prestamos
+Costa Rica,266,1970,Sector Público,3021100.0,1,prestamos
+El Salvador,267,1993,Sector Público,61819000.0,4,prestamos
+Honduras,268,1967,Sector Público,1175680.0,3,prestamos
+Honduras,269,1994,Sector Privado,40951800.0,21,prestamos
+El Salvador,270,1962,Sector Privado,1546000.0,4,prestamos
+Guatemala,271,1971,Sector Privado,4033000.0,10,prestamos
+Costa Rica,272,2005,Sector Público,416970508.18,7,prestamos
+Honduras,273,1968,Sector Privado,804800.0,6,prestamos
+Nicaragua,274,1999,Sector Privado,20500000.0,7,prestamos
+El Salvador,275,2020,Sector Público,615200000.0,4,prestamos
+Guatemala,276,1974,Sector Privado,4815000.0,6,prestamos
+Nicaragua,277,2013,Sector Privado,3000000.0,1,prestamos
+Honduras,278,1992,Sector Público,75072000.0,9,prestamos
+Honduras,279,1995,Sector Privado,57755000.0,18,prestamos
+Honduras,280,2000,Sector Privado,34431050.0,5,prestamos
+Guatemala,281,2011,Sector Público,119400000.0,1,prestamos
+Nicaragua,282,1991,Sector Público,67200000.0,5,prestamos
+Honduras,283,1973,Sector Privado,6340800.0,10,prestamos
+Nicaragua,284,2024,Sector Público,130000000.0,1,prestamos
+Honduras,285,1977,Sector Público,16790000.0,8,prestamos
+El Salvador,286,1966,Sector Privado,618400.0,4,prestamos
+Honduras,287,1982,Sector Privado,500000.0,1,prestamos
+El Salvador,288,2001,Sector Privado,12800000.0,14,prestamos
+El Salvador,289,1996,Sector Público,132163530.0,7,prestamos
+Honduras,290,2012,Sector Público,356337976.09000003,8,prestamos
+El Salvador,291,1987,Sector Público,49800000.0,7,prestamos
+Guatemala,292,2015,Sector Público,370000000.0,2,prestamos
+El Salvador,293,1964,Sector Público,1271000.0,2,prestamos
+Honduras,294,2003,Sector Público,62927243.47,5,prestamos
+El Salvador,295,2002,Sector Público,32500000.0,2,prestamos
+El Salvador,296,2009,Sector Privado,1000000.0,1,prestamos
+Honduras,297,2008,Sector Privado,71900000.0,14,prestamos
+Honduras,298,1965,Sector Público,1431090.0,8,prestamos
+Honduras,299,1981,Sector Público,29969350.0,9,prestamos
+Nicaragua,300,2021,Sector Privado,8000000.0,1,prestamos
+Nicaragua,301,1963,Sector Privado,1044848.5700000001,6,prestamos
+Honduras,302,1969,Sector Público,11377600.0,7,prestamos
+El Salvador,303,1980,Sector Público,56237000.0,9,prestamos
+Costa Rica,304,1972,Sector Privado,3365950.0,7,prestamos
+El Salvador,305,2016,Sector Privado,2125000.0,1,prestamos
+Nicaragua,306,1967,Sector Privado,5547300.0,8,prestamos
+Honduras,307,1994,Sector Público,34765000.0,7,prestamos
+El Salvador,308,1976,Sector Privado,2525000.0,7,prestamos
+Guatemala,309,1971,Sector Público,8658000.0,4,prestamos
+El Salvador,310,1979,Sector Privado,2416000.0,3,prestamos
+Honduras,311,1968,Sector Público,10752000.0,7,prestamos
+Guatemala,312,2018,Sector Público,193200000.0,1,prestamos
+Guatemala,313,1974,Sector Público,10800000.0,5,prestamos
+Nicaragua,314,2013,Sector Público,363545473.0,5,prestamos
+Nicaragua,315,1992,Sector Privado,900000.0,3,prestamos
+Honduras,316,1995,Sector Público,8000000.0,3,prestamos
+Honduras,317,2000,Sector Público,1500000.0,1,prestamos
+Honduras,318,2011,Sector Público,392236000.0,5,prestamos
+Honduras,319,1973,Sector Público,12940000.0,4,prestamos
+Panamá,320,2024,Sector Público,240000000.0,1,prestamos
+Nicaragua,321,1977,Sector Privado,7800000.0,4,prestamos
+El Salvador,322,1966,Sector Público,6040000.0,5,prestamos
+Honduras,323,1982,Sector Público,40294000.0,6,prestamos
+El Salvador,324,2001,Sector Público,217400000.0,3,prestamos
+El Salvador,325,2025,Sector Público,350000000.0,3,prestamos
+Nicaragua,326,2012,Sector Público,253044054.79,5,prestamos
+El Salvador,327,2022,Sector Privado,60000000.0,1,prestamos
+Honduras,328,2015,Sector Privado,46000000.0,2,prestamos
+El Salvador,329,2017,Sector Privado,61306842.25,1,prestamos
+Nicaragua,330,2003,Sector Privado,42905100.0,14,prestamos
+El Salvador,331,2014,Sector Privado,14250000.0,3,prestamos
+El Salvador,332,2009,Sector Público,293433870.0,2,prestamos
+Honduras,333,2008,Sector Público,202006000.0,5,prestamos
+Nicaragua,334,1965,Sector Privado,3942000.0,6,prestamos
+Nicaragua,335,1981,Sector Privado,4400000.0,1,prestamos
+Nicaragua,336,2021,Sector Público,804903013.99,7,prestamos
+Nicaragua,337,1969,Sector Privado,1015356.0,8,prestamos
+Guatemala,338,1978,Sector Privado,1700000.0,4,prestamos
+Costa Rica,339,1972,Sector Público,13976200.0,8,prestamos
+El Salvador,340,2016,Sector Público,383647251.84000003,4,prestamos
+Nicaragua,341,1967,Sector Público,4291000.0,3,prestamos
+Nicaragua,342,1994,Sector Privado,19003900.0,12,prestamos
+El Salvador,343,1976,Sector Público,15300000.0,2,prestamos
+Guatemala,344,1983,Sector Público,6900000.0,1,prestamos
+El Salvador,345,1979,Sector Público,41850000.0,6,prestamos
+Nicaragua,346,1968,Sector Privado,534714.0,3,prestamos
+Guatemala,347,2020,Sector Privado,1500000.0,1,prestamos
+Guatemala,348,1984,Sector Público,1200000.0,1,prestamos
+Panamá,349,2013,Sector Privado,10000000.0,1,prestamos
+Nicaragua,350,1992,Sector Público,63977012.0,9,prestamos
+Nicaragua,351,1995,Sector Privado,7875000.0,4,prestamos
+Nicaragua,352,2000,Sector Privado,15100000.0,6,prestamos
+Nicaragua,353,2011,Sector Privado,72200000.0,2,prestamos
+Nicaragua,354,1973,Sector Privado,1570671.0,7,prestamos
+República Dominicana,355,2024,Sector Público,100000000.0,1,prestamos
+Nicaragua,356,1977,Sector Público,20210000.0,8,prestamos
+El Salvador,357,2004,Sector Privado,67500000.0,12,prestamos
+Nicaragua,358,1982,Sector Público,19700000.0,4,prestamos
+El Salvador,359,2007,Sector Privado,120215000.0,8,prestamos
+Guatemala,360,1996,Sector Privado,75665700.0,23,prestamos
+El Salvador,361,2022,Sector Público,836000000.0,5,prestamos
+Honduras,362,2015,Sector Público,212300000.0,2,prestamos
+El Salvador,363,2017,Sector Público,246000000.0,2,prestamos
+Nicaragua,364,2003,Sector Público,21790000.0,4,prestamos
+El Salvador,365,2014,Sector Público,296887500.0,5,prestamos
+Guatemala,366,1975,Sector Privado,11110000.0,6,prestamos
+Nicaragua,367,2008,Sector Privado,107150000.0,12,prestamos
+Nicaragua,368,1965,Sector Público,2000000.0,1,prestamos
+Nicaragua,369,1981,Sector Público,43250000.0,6,prestamos
+Panamá,370,2021,Sector Privado,125000000.0,1,prestamos
+Nicaragua,371,1969,Sector Público,5720537.0,7,prestamos
+Guatemala,372,1978,Sector Público,48790000.0,8,prestamos
+Costa Rica,373,2010,Sector Privado,35760000.0,9,prestamos
+Guatemala,374,1993,Sector Privado,38556600.0,31,prestamos
+Nicaragua,375,1994,Sector Público,75129872.0,9,prestamos
+El Salvador,376,1998,Sector Privado,28900000.0,8,prestamos
+Honduras,377,1971,Sector Privado,6223272.0,20,prestamos
+El Salvador,378,1997,Sector Privado,55147400.0,15,prestamos
+Nicaragua,379,1968,Sector Público,4000000.0,1,prestamos
+Honduras,380,2018,Sector Privado,40000000.0,3,prestamos
+Honduras,381,1974,Sector Privado,6857000.0,13,prestamos
+República Dominicana,382,2013,Sector Público,80200000.0,1,prestamos
+Nicaragua,383,1995,Sector Público,15600000.0,4,prestamos
+Nicaragua,384,2011,Sector Público,90234985.0,5,prestamos
+Nicaragua,385,1973,Sector Público,14255857.0,9,prestamos
+El Salvador,386,2004,Sector Público,155625000.0,3,prestamos
+El Salvador,387,2007,Sector Público,351500000.0,7,prestamos
+Guatemala,388,1996,Sector Público,130971000.0,3,prestamos
+Guatemala,389,1987,Sector Privado,1200000.0,1,prestamos
+Nicaragua,390,2015,Sector Privado,40000000.0,1,prestamos
+Guatemala,391,1964,Sector Privado,390000.0,2,prestamos
+Guatemala,392,2002,Sector Privado,104054179.0,9,prestamos
+Guatemala,393,1975,Sector Público,16140000.0,5,prestamos
+Nicaragua,394,2008,Sector Público,161893879.0,4,prestamos
+República Dominicana,395,2021,Sector Público,410000000.0,2,prestamos
+Guatemala,396,1980,Sector Privado,8200000.0,3,prestamos
+Costa Rica,397,2010,Sector Público,182693958.0,3,prestamos
+Guatemala,398,1993,Sector Público,70800000.0,3,prestamos
+El Salvador,399,1998,Sector Público,177771000.0,3,prestamos
+Honduras,400,1971,Sector Público,3475000.0,5,prestamos
+El Salvador,401,1997,Sector Público,106908000.0,3,prestamos
+Honduras,402,2018,Sector Público,44262590.7,1,prestamos
+Honduras,403,1974,Sector Público,16355000.0,11,prestamos
+Panamá,404,2011,Sector Privado,25000000.0,1,prestamos
+El Salvador,405,2019,Sector Privado,45000000.0,1,prestamos
+Guatemala,406,2001,Sector Privado,29300000.0,3,prestamos
+Guatemala,407,2025,Sector Privado,15000000.0,1,prestamos
+Guatemala,408,1987,Sector Público,26620000.0,5,prestamos
+Nicaragua,409,2015,Sector Público,156016547.10000002,4,prestamos
+Guatemala,410,1964,Sector Público,20000.0,1,prestamos
+Guatemala,411,2002,Sector Público,40467835.0,2,prestamos
+Guatemala,412,2009,Sector Privado,2594200.0,4,prestamos
+Panamá,413,2008,Sector Privado,30100000.0,1,prestamos
+Guatemala,414,1980,Sector Público,33640000.0,8,prestamos
+Costa Rica,415,2023,Sector Público,1000000000.0,3,prestamos
+Guatemala,416,2016,Sector Público,300000000.0,1,prestamos
+El Salvador,417,2006,Sector Privado,158210440.0,21,prestamos
+Honduras,418,1983,Sector Público,7560000.0,3,prestamos
+El Salvador,419,2005,Sector Privado,43850000.0,13,prestamos
+Honduras,420,2020,Sector Privado,111718430.0,4,prestamos
+Honduras,421,1984,Sector Público,14100000.0,2,prestamos
+El Salvador,422,2019,Sector Público,531162715.48,5,prestamos
+Guatemala,423,2001,Sector Público,97651252.0,4,prestamos
+Guatemala,424,2025,Sector Público,60000000.0,1,prestamos
+Guatemala,425,2022,Sector Privado,100000000.0,1,prestamos
+Panamá,426,2015,Sector Privado,20000000.0,1,prestamos
+Guatemala,427,2017,Sector Privado,37000000.0,2,prestamos
+Guatemala,428,2014,Sector Privado,56607000.0,3,prestamos
+Guatemala,429,2009,Sector Público,143121400.0,3,prestamos
+Honduras,430,1978,Sector Privado,3250000.0,3,prestamos
+El Salvador,431,1970,Sector Privado,5478600.0,6,prestamos
+Honduras,432,1993,Sector Privado,11487100.0,13,prestamos
+El Salvador,433,2006,Sector Público,275000000.0,3,prestamos
+Nicaragua,434,1971,Sector Privado,2825000.0,8,prestamos
+El Salvador,435,2005,Sector Público,232528347.75,5,prestamos
+Honduras,436,2020,Sector Público,846779622.95,6,prestamos
+Nicaragua,437,1974,Sector Privado,2800000.0,3,prestamos
+Guatemala,438,1966,Sector Privado,4211080.0,14,prestamos
+Guatemala,439,2007,Sector Privado,567905000.0,19,prestamos
+Honduras,440,1996,Sector Privado,58400000.0,14,prestamos
+Guatemala,441,2022,Sector Público,170000000.0,1,prestamos
+Panamá,442,2015,Sector Público,200000000.0,1,prestamos
+Guatemala,443,2017,Sector Público,100000000.0,1,prestamos
+Guatemala,444,2014,Sector Público,250000000.0,1,prestamos
+Honduras,445,1975,Sector Privado,19215089.0,18,prestamos
+Honduras,446,1978,Sector Público,28080000.0,8,prestamos
+El Salvador,447,1970,Sector Público,2397000.0,4,prestamos
+Honduras,448,1993,Sector Público,86941000.0,9,prestamos
+Guatemala,449,1962,Sector Privado,190000.0,2,prestamos
+Nicaragua,450,1971,Sector Público,11077486.0,10,prestamos
+Guatemala,451,1979,Sector Privado,2250000.0,5,prestamos
+Nicaragua,452,2018,Sector Público,365114696.0,3,prestamos
+Nicaragua,453,1974,Sector Público,22287000.0,12,prestamos
+Guatemala,454,1966,Sector Público,4352000.0,2,prestamos
+Honduras,455,2001,Sector Privado,8795064.0,5,prestamos
+Honduras,456,1996,Sector Público,15910000.0,1,prestamos
+Honduras,457,1987,Sector Público,30478300.0,8,prestamos
+Honduras,458,1964,Sector Privado,653000.0,3,prestamos
+Honduras,459,2002,Sector Privado,15800000.0,3,prestamos
+Honduras,460,1975,Sector Público,26194000.0,10,prestamos
+Honduras,461,1980,Sector Privado,5642500.0,6,prestamos
+El Salvador,462,1972,Sector Privado,301360.0,2,prestamos
+Honduras,463,2016,Sector Privado,40000000.0,1,prestamos
+Guatemala,464,1976,Sector Privado,6050000.0,4,prestamos
+Nicaragua,465,1983,Sector Público,13280000.0,3,prestamos
+Guatemala,466,1979,Sector Público,8100000.0,1,prestamos
+Nicaragua,467,2020,Sector Público,698696935.0,4,prestamos
+Guatemala,468,2004,Sector Privado,31125000.0,7,prestamos
+Honduras,469,2001,Sector Público,37425000.0,5,prestamos
+Honduras,470,2025,Sector Público,465000000.0,2,prestamos
+Honduras,471,2022,Sector Privado,15000000.0,1,prestamos
+Honduras,472,1964,Sector Público,654000.0,2,prestamos
+Honduras,473,2002,Sector Público,25912285.0,3,prestamos
+Honduras,474,2009,Sector Privado,5500000.0,2,prestamos
+Honduras,475,1980,Sector Público,39000000.0,7,prestamos
+El Salvador,476,1972,Sector Público,6730000.0,4,prestamos
+Honduras,477,2016,Sector Público,62182437.78,2,prestamos
+Guatemala,478,1976,Sector Público,27120000.0,5,prestamos
+Guatemala,479,1997,Sector Privado,41337000.0,13,prestamos
+Panamá,480,2018,Sector Privado,141000000.0,3,prestamos
+Guatemala,481,2004,Sector Público,57635000.0,2,prestamos
+Honduras,482,2007,Sector Privado,86852100.0,22,prestamos
+Nicaragua,483,1996,Sector Privado,11737565.0,11,prestamos
+Honduras,484,2022,Sector Público,470000000.0,2,prestamos
+Honduras,485,2017,Sector Privado,30472000.0,1,prestamos
+Honduras,486,2014,Sector Privado,88700000.0,4,prestamos
+Honduras,487,2009,Sector Público,90000000.0,1,prestamos
+Nicaragua,488,1978,Sector Privado,1400000.0,3,prestamos
+El Salvador,489,2010,Sector Privado,6325000.0,9,prestamos
+México,490,2016,Sector Público,150000000.0,1,prestamos
+Guatemala,491,1998,Sector Privado,63237300.0,13,prestamos
+Guatemala,492,1997,Sector Público,177159773.0,6,prestamos
+Panamá,493,2018,Sector Público,660000000.0,4,prestamos
+Guatemala,494,2019,Sector Privado,60000000.0,1,prestamos
+Honduras,495,2007,Sector Público,75500000.0,2,prestamos
+Nicaragua,496,2025,Sector Público,235000000.0,1,prestamos
+Nicaragua,497,2022,Sector Público,200000000.0,1,prestamos
+Honduras,498,2017,Sector Público,236834740.0,2,prestamos
+Honduras,499,2014,Sector Público,122044117.73,2,prestamos
+Nicaragua,500,1975,Sector Privado,21890000.0,10,prestamos
+Nicaragua,501,1978,Sector Público,28471000.0,7,prestamos
+El Salvador,502,2010,Sector Público,126540000.0,4,prestamos
+Nicaragua,503,1993,Sector Privado,1500000.0,2,prestamos
+Guatemala,504,1998,Sector Público,314750000.0,9,prestamos
+Guatemala,505,2005,Sector Privado,105095000.0,11,prestamos
+Panamá,506,2020,Sector Público,400000000.0,2,prestamos
+Guatemala,507,2019,Sector Público,285700000.0,1,prestamos
+Nicaragua,508,2001,Sector Privado,19350000.0,8,prestamos
+Panamá,509,2025,Sector Privado,20000000.0,1,prestamos
+Panamá,510,2022,Sector Privado,85000000.0,2,prestamos
+Nicaragua,511,1964,Sector Privado,1317700.0,6,prestamos
+Nicaragua,512,2002,Sector Privado,50043635.74,18,prestamos
+Nicaragua,513,1975,Sector Público,17184000.0,8,prestamos
+Nicaragua,514,1980,Sector Público,65285000.0,16,prestamos
+Guatemala,515,1970,Sector Privado,2507184.0,7,prestamos
+Nicaragua,516,1993,Sector Público,66265800.0,8,prestamos
+Guatemala,517,2006,Sector Privado,377049000.0,28,prestamos
+Guatemala,518,2005,Sector Público,558270000.0,3,prestamos
+República Dominicana,519,2018,Sector Privado,154000000.0,2,prestamos
+Honduras,520,1966,Sector Privado,2200000.0,7,prestamos
+Nicaragua,521,2007,Sector Privado,199125700.0,18,prestamos
+Panamá,522,2025,Sector Público,75000000.0,1,prestamos
+Panamá,523,2022,Sector Público,145000000.0,1,prestamos
+Nicaragua,524,1964,Sector Público,10052458.0,3,prestamos
+Nicaragua,525,2002,Sector Público,29138311.95,4,prestamos
+Nicaragua,526,2009,Sector Privado,21300000.0,9,prestamos
+Guatemala,527,1970,Sector Público,150000.0,1,prestamos
+Nicaragua,528,2016,Sector Público,379786817.2,6,prestamos
+Honduras,529,1962,Sector Privado,445000.0,3,prestamos
+Honduras,530,1979,Sector Privado,10475600.0,6,prestamos
+República Dominicana,531,2020,Sector Público,30000000.0,1,prestamos
+Honduras,532,1966,Sector Público,11794500.0,6,prestamos
+Nicaragua,533,2007,Sector Público,84769347.0,5,prestamos
+Regional,534,2025,Sector Público,37187479.0,1,prestamos
+República Dominicana,535,2022,Sector Público,580000000.0,4,prestamos
+Nicaragua,536,2017,Sector Privado,10000000.0,1,prestamos
+Nicaragua,537,2014,Sector Público,333883194.0,4,prestamos
+Nicaragua,538,2009,Sector Público,299987137.88,4,prestamos
+Guatemala,539,1972,Sector Privado,5580370.0,8,prestamos
+Panamá,540,2016,Sector Privado,156000000.0,2,prestamos
+Honduras,541,1962,Sector Público,120000.0,1,prestamos
+Honduras,542,1979,Sector Público,39655000.0,8,prestamos
+Honduras,543,2004,Sector Privado,79846537.0,11,prestamos
+Panamá,544,2007,Sector Privado,97033333.33,2,prestamos
+República Dominicana,545,2025,Sector Público,80900000.0,1,prestamos
+Nicaragua,546,2017,Sector Público,468774000.0,4,prestamos
+Panamá,547,2014,Sector Privado,30000000.0,1,prestamos
+Panamá,548,2009,Sector Privado,20000000.0,1,prestamos
+Guatemala,549,1972,Sector Público,9500000.0,2,prestamos
+Panamá,550,2016,Sector Público,100000000.0,1,prestamos
+Honduras,551,1976,Sector Privado,3215000.0,7,prestamos
+Honduras,552,1997,Sector Privado,37947000.0,12,prestamos
+Honduras,553,2004,Sector Público,117830000.0,4,prestamos
+Panamá,554,2007,Sector Público,19000000.0,1,prestamos
+Panamá,555,2017,Sector Privado,20000000.0,1,prestamos
+Guatemala,556,2010,Sector Privado,71415000.0,4,prestamos
+República Dominicana,557,2016,Sector Público,100000000.0,1,prestamos
+Honduras,558,1976,Sector Público,21441200.0,6,prestamos
+Honduras,559,1997,Sector Público,4900000.0,1,prestamos
+Honduras,560,2019,Sector Privado,25000000.0,1,prestamos
+República Dominicana,561,2007,Sector Público,50000000.0,1,prestamos
+Panamá,562,2017,Sector Público,170000000.0,2,prestamos
+Guatemala,563,2010,Sector Público,265000000.0,1,prestamos
+Honduras,564,1998,Sector Privado,147449550.0,23,prestamos
+Honduras,565,2005,Sector Privado,79705800.0,12,prestamos
+Honduras,566,2019,Sector Público,143586952.0,2,prestamos
+República Dominicana,567,2017,Sector Público,249600000.0,1,prestamos
+Guatemala,568,2023,Sector Privado,15000000.0,1,prestamos
+Honduras,569,1998,Sector Público,45500000.0,2,prestamos
+Honduras,570,2005,Sector Público,125272463.49000001,9,prestamos
+Nicaragua,571,1966,Sector Privado,6725000.0,5,prestamos
+Honduras,572,1970,Sector Privado,11407500.0,19,prestamos
+Honduras,573,2006,Sector Privado,113327000.0,14,prestamos
+Nicaragua,574,1979,Sector Privado,11050000.0,6,prestamos
+Nicaragua,575,1966,Sector Público,2722240.0,3,prestamos
+Honduras,576,1970,Sector Público,8114500.0,5,prestamos
+Honduras,577,2006,Sector Público,125300000.05000001,2,prestamos
+Nicaragua,578,1979,Sector Público,2750000.0,2,prestamos
+Nicaragua,579,2004,Sector Privado,24482000.0,17,prestamos
+Honduras,580,1972,Sector Privado,3962000.0,13,prestamos
+Nicaragua,581,1962,Sector Privado,937200.0,1,prestamos
+Nicaragua,582,1997,Sector Privado,7500000.0,3,prestamos
+Nicaragua,583,2004,Sector Público,11025000.0,3,prestamos
+Honduras,584,1972,Sector Público,2680300.0,8,prestamos
+Nicaragua,585,1976,Sector Privado,980000.0,1,prestamos
+Nicaragua,586,2005,Sector Privado,60775872.66,16,prestamos
+Nicaragua,587,2019,Sector Privado,70800000.0,2,prestamos
+Honduras,588,2010,Sector Privado,118182669.0,7,prestamos
+Nicaragua,589,1976,Sector Público,21360000.0,5,prestamos
+Nicaragua,590,2005,Sector Público,49632000.0,6,prestamos
+Nicaragua,591,2019,Sector Público,585344540.0,2,prestamos
+Honduras,592,2010,Sector Público,356188510.0,3,prestamos
+Nicaragua,593,1998,Sector Privado,32711300.0,7,prestamos
+Panamá,594,2005,Sector Público,20000000.0,1,prestamos
+Panamá,595,2019,Sector Privado,50000000.0,1,prestamos
+Honduras,596,2023,Sector Privado,20000000.0,1,prestamos
+Nicaragua,597,2006,Sector Privado,103330434.0,22,prestamos
+Panamá,598,2019,Sector Público,134000000.0,2,prestamos
+Honduras,599,2023,Sector Público,766988111.14,3,prestamos
+Nicaragua,600,2006,Sector Público,196218000.0,3,prestamos
+Nicaragua,601,1970,Sector Privado,842236.0,6,prestamos
+Nicaragua,602,1970,Sector Público,9534000.0,6,prestamos
+Nicaragua,603,1972,Sector Privado,3174914.0,8,prestamos
+Nicaragua,604,1972,Sector Público,7834300.0,5,prestamos
+Nicaragua,605,2010,Sector Privado,30400000.0,3,prestamos
+Nicaragua,606,2010,Sector Público,117826951.0,2,prestamos
+Panamá,607,2010,Sector Privado,12790915.0,2,prestamos
+República Dominicana,608,2010,Sector Público,150000000.0,2,prestamos
+República Dominicana,609,2023,Sector Público,908226411.0,3,prestamos

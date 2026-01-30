@@ -1,0 +1,470 @@
+_id,anio_aprobacion,cantidad,cantidad_aprobaciones,fondo,modalidad,monto_bruto_usd,origen,pais,producto,sector_institucional
+1,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+2,2010,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+3,2010,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+4,2010,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+5,2020,1.0,,Fondos Ordinarios,No Reembolsable,975175.88,cooperacion,Cuba,Ayuda de Emergencia y por Desastres Naturales,
+6,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,
+7,2013,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,
+8,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+9,2013,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,
+10,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,25000.0,cooperacion,Belice,Cooperación Técnica,
+11,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,58004.82,cooperacion,Regional,Cooperación Técnica,
+12,2011,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1251210.0,cooperacion,Costa Rica,Cooperación Técnica,
+13,2010,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,296000.0,cooperacion,El Salvador,Cooperación Técnica,
+14,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,24960.0,cooperacion,Honduras,Cooperación Técnica,
+15,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,150000.0,cooperacion,Guatemala,Cooperación Técnica,
+16,2020,1.0,,KTF,No Reembolsable,333333.33,cooperacion,Cuba,Cooperación Técnica,
+17,2011,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,
+18,2016,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,
+19,2017,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+20,2017,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,
+21,2019,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,25000.5,cooperacion,Belice,Cooperación Técnica,
+22,2011,1.0,,Fondos Ordinarios,No Reembolsable,66020.0,cooperacion,Regional,Otras Cooperaciones Financieras,
+23,2012,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,
+24,2011,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+25,2011,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+26,2011,2.0,,Fondos Ordinarios,No Reembolsable,400000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+27,2022,1.0,,Fondos Ordinarios,No Reembolsable,208460.0,cooperacion,Cuba,Ayuda de Emergencia y por Desastres Naturales,
+28,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,
+29,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,
+30,2019,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,36540.0,cooperacion,República Dominicana,Cooperación Técnica,
+31,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,
+32,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,
+33,2016,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1941000.0,cooperacion,Regional,Cooperación Técnica,
+34,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,20000.0,cooperacion,Costa Rica,Cooperación Técnica,
+35,2012,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,
+36,2011,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,
+37,2011,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,
+38,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,56488.06,cooperacion,Cuba,Cooperación Técnica,
+39,2020,2.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,
+40,2022,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,
+41,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+42,2023,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,
+43,2020,1.0,,KTF,No Reembolsable,333333.33,cooperacion,Belice,Cooperación Técnica,
+44,2017,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,3922308.2,cooperacion,Regional,Cooperación Técnica,
+45,2012,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1291210.0,cooperacion,Costa Rica,Cooperación Técnica,
+46,2012,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,850000.0,cooperacion,El Salvador,Cooperación Técnica,
+47,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,25000.0,cooperacion,Honduras,Cooperación Técnica,
+48,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1000000.0,cooperacion,Guatemala,Cooperación Técnica,
+49,2025,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Cuba,Ayuda de Emergencia y por Desastres Naturales,
+50,2020,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Colombia,Cooperación Técnica,
+51,2022,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Argentina,Cooperación Técnica,
+52,2020,2.0,,KTF,No Reembolsable,391666.66,cooperacion,República Dominicana,Cooperación Técnica,
+53,2021,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,
+54,2018,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,125475.0,cooperacion,Regional,Cooperación Técnica,
+55,2013,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2275000.0,cooperacion,Costa Rica,Cooperación Técnica,
+56,2015,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+57,2011,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,6006000.0,cooperacion,Honduras,Cooperación Técnica,
+58,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,Reembolsable,198500.0,cooperacion,Guatemala,Cooperación Técnica,
+59,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,298978.79,cooperacion,Colombia,Cooperación Técnica,
+60,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Argentina,Cooperación Técnica,
+61,2021,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+62,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Belice,Cooperación Técnica,
+63,2019,3.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,219000.0,cooperacion,Regional,Cooperación Técnica,
+64,2015,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+65,2015,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,375000.0,cooperacion,El Salvador,Cooperación Técnica,
+66,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,317994.0,cooperacion,Honduras,Cooperación Técnica,
+67,2012,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+68,2022,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,249338.11,cooperacion,Colombia,Cooperación Técnica,
+69,2021,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Cooperación de Países Fundadores y Regionales no Fundadores,
+70,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,
+71,2019,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1365310.8,cooperacion,Regional,Cooperación Técnica,
+72,2015,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,
+73,2016,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,
+74,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,278400.0,cooperacion,Honduras,Cooperación Técnica,
+75,2012,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,
+76,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Colombia,Cooperación Técnica,
+77,2021,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,813748.0,cooperacion,República Dominicana,Cooperación Técnica,
+78,2022,1.0,,KTF,No Reembolsable,950000.0,cooperacion,Belice,Cooperación Técnica,
+79,2020,2.0,,Fondos Ordinarios,No Reembolsable,4400000.0,cooperacion,Regional,Ayuda de Emergencia y por Desastres Naturales,
+80,2015,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,100000.0,cooperacion,Costa Rica,Cooperación Técnica,
+81,2016,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,24990.0,cooperacion,El Salvador,Cooperación Técnica,
+82,2014,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,5500.0,cooperacion,Honduras,Cooperación Técnica,
+83,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,15000.0,cooperacion,Guatemala,Cooperación Técnica,
+84,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99744.75,cooperacion,Colombia,Cooperación Técnica,
+85,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1680000.0,cooperacion,República Dominicana,Cooperación Técnica,
+86,2023,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,108675.0,cooperacion,Belice,Cooperación Técnica,
+87,2020,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,685000.0,cooperacion,Regional,Cooperación Técnica,
+88,2015,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1598962.2,cooperacion,Costa Rica,Cooperación Técnica,
+89,2019,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,802500.0,cooperacion,El Salvador,Cooperación Técnica,
+90,2015,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+91,2013,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,9000.0,cooperacion,Guatemala,Cooperación Técnica,
+92,2021,1.0,,KTF,No Reembolsable,630000.0,cooperacion,República Dominicana,Cooperación Técnica,
+93,2023,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,400000.0,cooperacion,Belice,Cooperación Técnica,
+94,2020,10.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1930740.75,cooperacion,Regional,Cooperación Técnica,
+95,2016,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+96,2020,2.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+97,2015,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,100000.0,cooperacion,Honduras,Cooperación Técnica,
+98,2014,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+99,2022,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+100,2023,1.0,,Fondos Ordinarios,No Reembolsable,974037.02,cooperacion,Belice,Otras Cooperaciones Financieras,
+101,2020,3.0,,KTF,No Reembolsable,550000.0,cooperacion,Regional,Cooperación Técnica,
+102,2016,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,101482.5,cooperacion,Costa Rica,Cooperación Técnica,
+103,2020,3.0,,KTF,No Reembolsable,841666.66,cooperacion,El Salvador,Cooperación Técnica,
+104,2015,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,990000.0,cooperacion,Honduras,Cooperación Técnica,
+105,2015,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+106,2022,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,1558750.0,cooperacion,República Dominicana,Cooperación Técnica,
+107,2024,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,
+108,2021,2.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,765000.0,cooperacion,Regional,Cooperación Técnica,
+109,2016,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,192500.0,cooperacion,Costa Rica,Cooperación Técnica,
+110,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+111,2016,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+112,2015,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,113650.0,cooperacion,Guatemala,Cooperación Técnica,
+113,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,325500.0,cooperacion,República Dominicana,Cooperación Técnica,
+114,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Belice,Cooperación Técnica,
+115,2021,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,430000.0,cooperacion,Regional,Cooperación Técnica,
+116,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+117,2021,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,
+118,2016,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,40740.0,cooperacion,Honduras,Cooperación Técnica,
+119,2016,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,
+120,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,4060375.0,cooperacion,República Dominicana,Cooperación Técnica,
+121,2024,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,986050.45,cooperacion,Belice,Cooperación Técnica,
+122,2021,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1832713.75,cooperacion,Regional,Cooperación Técnica,
+123,2017,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,24990.0,cooperacion,Costa Rica,Cooperación Técnica,
+124,2021,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,194250.0,cooperacion,El Salvador,Cooperación Técnica,
+125,2016,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,398750.0,cooperacion,Honduras,Cooperación Técnica,
+126,2016,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,98811.3,cooperacion,Guatemala,Cooperación Técnica,
+127,2022,3.0,,KTF,No Reembolsable,2000000.0,cooperacion,República Dominicana,Cooperación Técnica,
+128,2025,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,950000.0,cooperacion,Belice,Cooperación Técnica,
+129,2021,3.0,,KTF,No Reembolsable,300000.0,cooperacion,Regional,Cooperación Técnica,
+130,2018,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,
+131,2021,1.0,,KTF,No Reembolsable,125000.0,cooperacion,El Salvador,Cooperación Técnica,
+132,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+133,2017,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,64837.5,cooperacion,Guatemala,Cooperación Técnica,
+134,2023,3.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+135,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,
+136,2022,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1122745.0,cooperacion,Regional,Cooperación Técnica,
+137,2018,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1320000.0,cooperacion,Costa Rica,Cooperación Técnica,
+138,2022,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+139,2017,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,
+140,2018,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+141,2023,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Cooperación de Países Fundadores y Regionales no Fundadores,
+142,2012,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,
+143,2022,2.0,,KTF,No Reembolsable,200000.0,cooperacion,Regional,Cooperación Técnica,
+144,2019,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,177850.0,cooperacion,Costa Rica,Cooperación Técnica,
+145,2022,2.0,,KTF,No Reembolsable,1150000.0,cooperacion,El Salvador,Cooperación Técnica,
+146,2017,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,88725.0,cooperacion,Honduras,Cooperación Técnica,
+147,2018,1.0,,FIMCA,No Reembolsable,3691000.0,cooperacion,Guatemala,Cooperación Técnica,
+148,2023,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,157434.45,cooperacion,República Dominicana,Cooperación Técnica,
+149,2013,1.0,,Fondos Ordinarios,No Reembolsable,270000.0,cooperacion,Panamá,Otras Cooperaciones Financieras,
+150,2022,1.0,,Fondos Ordinarios,No Reembolsable,700000.0,cooperacion,Regional,Otras Cooperaciones Financieras,
+151,2019,1.0,,FVC - Fondo Verde para el Clima,No Reembolsable,562960.0,cooperacion,Costa Rica,Cooperación Técnica,
+152,2023,2.0,,Fondos Ordinarios,No Reembolsable,1250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+153,2018,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+154,2018,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,44735.04,cooperacion,Guatemala,Cooperación Técnica,
+155,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,995000.0,cooperacion,República Dominicana,Cooperación Técnica,
+156,2020,2.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,
+157,2023,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,87200.0,cooperacion,Regional,Cooperación Técnica,
+158,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+159,2023,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,115500.0,cooperacion,El Salvador,Cooperación Técnica,
+160,2018,2.0,,Facilidad FASEP ,No Reembolsable,1615335.23,cooperacion,Honduras,Cooperación Técnica,
+161,2019,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,299722.5,cooperacion,Guatemala,Cooperación Técnica,
+162,2023,1.0,,Fondos Ordinarios,No Reembolsable,110000.0,cooperacion,República Dominicana,Otras Cooperaciones Financieras,
+163,2020,2.0,,KTF,No Reembolsable,391666.66,cooperacion,Panamá,Cooperación Técnica,
+164,2023,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1358075.0,cooperacion,Regional,Cooperación Técnica,
+165,2020,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,140614.5,cooperacion,Costa Rica,Cooperación Técnica,
+166,2023,1.0,,Fondos Ordinarios,No Reembolsable,160000.0,cooperacion,El Salvador,Otras Cooperaciones Financieras,
+167,2018,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,23100.0,cooperacion,Honduras,Cooperación Técnica,
+168,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+169,2024,1.0,,Fondos Ordinarios,No Reembolsable,600000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,
+170,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,
+171,2023,3.0,,KTF,No Reembolsable,1100000.0,cooperacion,Regional,Cooperación Técnica,
+172,2020,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,916072.22,cooperacion,Costa Rica,Cooperación Técnica,
+173,2024,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,
+174,2018,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2568754.1,cooperacion,Honduras,Cooperación Técnica,
+175,2020,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,133987.5,cooperacion,Guatemala,Cooperación Técnica,
+176,2024,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,393750.0,cooperacion,República Dominicana,Cooperación Técnica,
+177,2021,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1262650.0,cooperacion,Panamá,Cooperación Técnica,
+178,2024,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,1196710.0,cooperacion,Regional,Cooperación Técnica,
+179,2020,2.0,,KTF,No Reembolsable,391666.66,cooperacion,Costa Rica,Cooperación Técnica,
+180,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,
+181,2019,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+182,2020,3.0,,KTF,No Reembolsable,508333.33,cooperacion,Guatemala,Cooperación Técnica,
+183,2024,2.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,República Dominicana,Iniciativa PRODES,
+184,2021,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2420000.0,cooperacion,Panamá,Cooperación Técnica,
+185,2024,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1078686.8,cooperacion,Regional,Cooperación Técnica,
+186,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+187,2014,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,82040.0,cooperacion,Institucional,Cooperación Técnica,
+188,2019,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,371338.9,cooperacion,Honduras,Cooperación Técnica,
+189,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+190,2025,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,99750.0,cooperacion,República Dominicana,Cooperación Técnica,
+191,2021,2.0,,KTF,No Reembolsable,755000.0,cooperacion,Panamá,Cooperación Técnica,
+192,2024,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,290000.0,cooperacion,Regional,Cooperación Técnica,
+193,2021,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,199500.0,cooperacion,Costa Rica,Cooperación Técnica,
+194,2016,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,162420.9,cooperacion,Institucional,Cooperación Técnica,
+195,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+196,2021,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,94500.0,cooperacion,Guatemala,Cooperación Técnica,
+197,2025,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,199500.0,cooperacion,República Dominicana,Cooperación Técnica,
+198,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Panamá,Cooperación de Países Fundadores y Regionales no Fundadores,
+199,2025,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,172000.0,cooperacion,Regional,Cooperación Técnica,
+200,2021,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1020052.5,cooperacion,Costa Rica,Cooperación Técnica,
+201,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,26250.0,cooperacion,Institucional,Cooperación Técnica,
+202,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,
+203,2021,1.0,,KTF,No Reembolsable,125000.0,cooperacion,Guatemala,Cooperación Técnica,
+204,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,209576.85,cooperacion,República Dominicana,Cooperación Técnica,
+205,2022,1.0,,KTF,No Reembolsable,600000.0,cooperacion,Panamá,Cooperación Técnica,
+206,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,259241.62,cooperacion,Regional,Cooperación Técnica,
+207,2021,3.0,,KTF,No Reembolsable,1425000.0,cooperacion,Costa Rica,Cooperación Técnica,
+208,2022,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,138600.0,cooperacion,Institucional,Cooperación Técnica,
+209,2020,8.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,470268.75,cooperacion,Honduras,Cooperación Técnica,
+210,2022,2.0,,Fondos Ordinarios,No Reembolsable,750000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+211,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,Panamá,Iniciativa PRODES,
+212,2022,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+213,2020,3.0,,KTF,No Reembolsable,508333.33,cooperacion,Honduras,Cooperación Técnica,
+214,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,
+215,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,
+216,2021,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+217,2022,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,130000.0,cooperacion,Guatemala,Cooperación Técnica,
+218,2022,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,147000.0,cooperacion,Costa Rica,Cooperación Técnica,
+219,2021,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,550000.0,cooperacion,Honduras,Cooperación Técnica,
+220,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,244650.0,cooperacion,Guatemala,Cooperación Técnica,
+221,2022,2.0,,KTF,No Reembolsable,1120000.0,cooperacion,Costa Rica,Cooperación Técnica,
+222,2021,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,238980.0,cooperacion,Honduras,Cooperación Técnica,
+223,2023,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,650000.0,cooperacion,Guatemala,Cooperación Técnica,
+224,2023,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,200000.0,cooperacion,Costa Rica,Cooperación Técnica,
+225,2021,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,7382734.79,cooperacion,Honduras,Cooperación Técnica,
+226,2024,3.0,,Fondos Ordinarios,No Reembolsable,1178848.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,
+227,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Costa Rica,Cooperación Técnica,
+228,2021,2.0,,KTF,No Reembolsable,225000.0,cooperacion,Honduras,Cooperación Técnica,
+229,2025,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,152250.0,cooperacion,Guatemala,Cooperación Técnica,
+230,2023,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1540000.0,cooperacion,Costa Rica,Cooperación Técnica,
+231,2022,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+232,2023,1.0,,Fondos Ordinarios,No Reembolsable,1050000.0,cooperacion,Costa Rica,Otras Cooperaciones Financieras,
+233,2022,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,335000.0,cooperacion,Honduras,Cooperación Técnica,
+234,2024,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,
+235,2022,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,250164.95,cooperacion,Honduras,Cooperación Técnica,
+236,2024,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,
+237,2022,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,357500.0,cooperacion,Honduras,Cooperación Técnica,
+238,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99445.5,cooperacion,Costa Rica,Cooperación Técnica,
+239,2022,1.0,,KTF,No Reembolsable,850000.0,cooperacion,Honduras,Cooperación Técnica,
+240,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,5940000.0,cooperacion,Costa Rica,Cooperación Técnica,
+241,2022,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,550000.0,cooperacion,Honduras,Cooperación Técnica,
+242,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,Costa Rica,Iniciativa PRODES,
+243,2023,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+244,2025,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,700000.0,cooperacion,Costa Rica,Cooperación Técnica,
+245,2023,6.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,1804500.0,cooperacion,Honduras,Cooperación Técnica,
+246,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,52500.0,cooperacion,Honduras,Cooperación Técnica,
+247,2023,5.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,7483208.71,cooperacion,Honduras,Cooperación Técnica,
+248,2024,2.0,,Fondos Ordinarios,No Reembolsable,750000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,
+249,2024,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,
+250,2024,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,214200.0,cooperacion,Honduras,Cooperación Técnica,
+251,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,Honduras,Iniciativa PRODES,
+252,2025,7.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,436800.0,cooperacion,Honduras,Cooperación Técnica,
+253,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,264600.0,cooperacion,Nicaragua,Cooperación Técnica,
+254,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,500000.0,cooperacion,Nicaragua,Cooperación Técnica,
+255,2011,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+256,2011,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Nicaragua,Cooperación de Países Fundadores y Regionales no Fundadores,
+257,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,264600.0,cooperacion,Nicaragua,Cooperación Técnica,
+258,2011,5.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,3757728.0,cooperacion,Nicaragua,Cooperación Técnica,
+259,2012,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2644901.89,cooperacion,Nicaragua,Cooperación Técnica,
+260,2012,1.0,,Fondos Ordinarios,No Reembolsable,230360.0,cooperacion,Nicaragua,Otras Cooperaciones Financieras,
+261,2013,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+262,2013,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,192294.07,cooperacion,Nicaragua,Cooperación Técnica,
+263,2013,1.0,,FSC Taiwan ICDF,No Reembolsable,1000000.0,cooperacion,Nicaragua,Cooperación Técnica,
+264,2014,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+265,2014,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,39600.0,cooperacion,Nicaragua,Cooperación Técnica,
+266,2015,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+267,2015,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Nicaragua,Cooperación de Países Fundadores y Regionales no Fundadores,
+268,2015,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,350000.0,cooperacion,Nicaragua,Cooperación Técnica,
+269,2016,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+270,2016,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,283250.0,cooperacion,Nicaragua,Cooperación Técnica,
+271,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+272,2017,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1408900.5,cooperacion,Nicaragua,Cooperación Técnica,
+273,2018,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+274,2018,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1995000.0,cooperacion,Nicaragua,Cooperación Técnica,
+275,2019,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,283250.0,cooperacion,Nicaragua,Cooperación Técnica,
+276,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+277,2020,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,36225.0,cooperacion,Nicaragua,Cooperación Técnica,
+278,2020,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,707598.0,cooperacion,Nicaragua,Cooperación Técnica,
+279,2020,2.0,,KTF,No Reembolsable,450000.0,cooperacion,Nicaragua,Cooperación Técnica,
+280,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+281,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1227119.25,cooperacion,Nicaragua,Cooperación Técnica,
+282,2021,1.0,,FVC - Fondo Verde para el Clima,No Reembolsable,749584.0,cooperacion,Nicaragua,Cooperación Técnica,
+283,2021,1.0,,KTF,No Reembolsable,125000.0,cooperacion,Nicaragua,Cooperación Técnica,
+284,2022,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,
+285,2022,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,93500.0,cooperacion,Nicaragua,Cooperación Técnica,
+286,2022,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,81900.0,cooperacion,Nicaragua,Cooperación Técnica,
+287,2023,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,244072.5,cooperacion,Nicaragua,Cooperación Técnica,
+288,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,810579.0,cooperacion,Nicaragua,Cooperación Técnica,
+289,2023,1.0,,FVC - Fondo Verde para el Clima,No Reembolsable,748282.0,cooperacion,Nicaragua,Cooperación Técnica,
+290,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,880000.0,cooperacion,Nicaragua,Cooperación Técnica,
+1,2012,,1.0,,,3000000.0,prestamos,Costa Rica,,Sector Privado
+2,2022,,4.0,,,115000000.0,prestamos,Argentina,,Sector Público
+3,2015,,1.0,,,50000000.0,prestamos,Argentina,,Sector Público
+4,2017,,1.0,,,30000000.0,prestamos,Argentina,,Sector Público
+6,2014,,1.0,,,30000000.0,prestamos,Belice,,Sector Público
+13,2021,,3.0,,,150000000.0,prestamos,Argentina,,Sector Público
+17,2023,,3.0,,,625000000.0,prestamos,Argentina,,Sector Público
+18,2016,,2.0,,,90000000.0,prestamos,Argentina,,Sector Público
+26,2018,,1.0,,,32000000.0,prestamos,Argentina,,Sector Público
+28,2013,,4.0,,,34775000.0,prestamos,Costa Rica,,Sector Privado
+33,2011,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público
+37,2024,,1.0,,,230000000.0,prestamos,Argentina,,Sector Público
+40,2019,,1.0,,,67000000.0,prestamos,Argentina,,Sector Público
+44,2012,,4.0,,,350000000.0,prestamos,Costa Rica,,Sector Público
+45,2022,,1.0,,,24000000.0,prestamos,Belice,,Sector Público
+46,2015,,1.0,,,136000000.0,prestamos,Colombia,,Sector Público
+47,2017,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público
+49,2014,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público
+56,2021,,2.0,,,580000000.0,prestamos,Costa Rica,,Sector Público
+60,2010,,2.0,,,10667410.0,prestamos,Belice,,Sector Público
+69,2020,,1.0,,,50000000.0,prestamos,Argentina,,Sector Público
+71,2013,,4.0,,,515000000.0,prestamos,Costa Rica,,Sector Público
+76,2011,,5.0,,,31000000.0,prestamos,Costa Rica,,Sector Privado
+80,2024,,1.0,,,770000000.0,prestamos,Costa Rica,,Sector Público
+87,2012,,3.0,,,18000000.0,prestamos,El Salvador,,Sector Privado
+88,2022,,1.0,,,250000000.0,prestamos,Colombia,,Sector Público
+89,2015,,4.0,,,73000000.0,prestamos,Costa Rica,,Sector Privado
+99,2021,,1.0,,,20000000.0,prestamos,El Salvador,,Sector Privado
+103,2023,,1.0,,,2500000.0,prestamos,Belice,,Sector Público
+112,2018,,3.0,,,530284067.0,prestamos,Costa Rica,,Sector Público
+114,2013,,4.0,,,199208600.0,prestamos,El Salvador,,Sector Público
+119,2011,,3.0,,,499000000.0,prestamos,Costa Rica,,Sector Público
+123,2024,,2.0,,,263900000.0,prestamos,El Salvador,,Sector Público
+129,2025,,2.0,,,815000000.0,prestamos,Costa Rica,,Sector Público
+130,2012,,3.0,,,193161825.0,prestamos,El Salvador,,Sector Público
+132,2015,,2.0,,,202587964.87,prestamos,Costa Rica,,Sector Público
+142,2021,,3.0,,,864700000.0,prestamos,El Salvador,,Sector Público
+146,2010,,1.0,,,35321000.0,prestamos,Colombia,,Sector Privado
+147,2016,,1.0,,,50000000.0,prestamos,Costa Rica,,Sector Privado
+155,2020,,1.0,,,6000000.0,prestamos,Costa Rica,,Sector Privado
+157,2013,,1.0,,,18750000.0,prestamos,Guatemala,,Sector Privado
+162,2011,,5.0,,,53625000.0,prestamos,El Salvador,,Sector Privado
+172,2012,,5.0,,,86288817.45,prestamos,Guatemala,,Sector Privado
+174,2015,,5.0,,,90000000.0,prestamos,El Salvador,,Sector Privado
+175,2017,,1.0,,,1350000.0,prestamos,Costa Rica,,Sector Privado
+177,2014,,4.0,,,21000000.0,prestamos,Costa Rica,,Sector Privado
+182,2021,,1.0,,,7000000.0,prestamos,Guatemala,,Sector Privado
+186,2023,,1.0,,,250000000.0,prestamos,Colombia,,Sector Público
+187,2016,,3.0,,,291842413.0,prestamos,Costa Rica,,Sector Público
+195,2020,,2.0,,,699160000.0,prestamos,Costa Rica,,Sector Público
+197,2013,,2.0,,,56802700.0,prestamos,Honduras,,Sector Privado
+202,2011,,4.0,,,232212173.8,prestamos,El Salvador,,Sector Público
+205,2024,,2.0,,,19000000.0,prestamos,Guatemala,,Sector Privado
+212,2012,,1.0,,,280000000.0,prestamos,Guatemala,,Sector Público
+213,2022,,3.0,,,1190000000.0,prestamos,Costa Rica,,Sector Público
+214,2015,,5.0,,,250521814.0,prestamos,El Salvador,,Sector Público
+215,2017,,3.0,,,214410000.0,prestamos,Costa Rica,,Sector Público
+217,2014,,4.0,,,308000000.0,prestamos,Costa Rica,,Sector Público
+222,2021,,1.0,,,2500000.0,prestamos,Honduras,,Sector Privado
+235,2018,,3.0,,,283500000.0,prestamos,El Salvador,,Sector Público
+237,2013,,4.0,,,103000000.0,prestamos,Honduras,,Sector Público
+242,2011,,4.0,,,64650000.0,prestamos,Guatemala,,Sector Privado
+245,2024,,3.0,,,476300000.0,prestamos,Honduras,,Sector Público
+248,2019,,2.0,,,640055000.0,prestamos,Costa Rica,,Sector Público
+251,2025,,3.0,,,350000000.0,prestamos,El Salvador,,Sector Público
+252,2012,,1.0,,,24400000.0,prestamos,Honduras,,Sector Privado
+253,2022,,1.0,,,50000000.0,prestamos,Cuba,,Sector Público
+254,2015,,1.0,,,10000000.0,prestamos,Guatemala,,Sector Privado
+262,2021,,6.0,,,717766365.18,prestamos,Honduras,,Sector Público
+275,2020,,4.0,,,615200000.0,prestamos,El Salvador,,Sector Público
+277,2013,,1.0,,,3000000.0,prestamos,Nicaragua,,Sector Privado
+281,2011,,1.0,,,119400000.0,prestamos,Guatemala,,Sector Público
+284,2024,,1.0,,,130000000.0,prestamos,Nicaragua,,Sector Público
+290,2012,,8.0,,,356337976.09000003,prestamos,Honduras,,Sector Público
+292,2015,,2.0,,,370000000.0,prestamos,Guatemala,,Sector Público
+300,2021,,1.0,,,8000000.0,prestamos,Nicaragua,,Sector Privado
+305,2016,,1.0,,,2125000.0,prestamos,El Salvador,,Sector Privado
+312,2018,,1.0,,,193200000.0,prestamos,Guatemala,,Sector Público
+314,2013,,5.0,,,363545473.0,prestamos,Nicaragua,,Sector Público
+318,2011,,5.0,,,392236000.0,prestamos,Honduras,,Sector Público
+320,2024,,1.0,,,240000000.0,prestamos,Panamá,,Sector Público
+326,2012,,5.0,,,253044054.79,prestamos,Nicaragua,,Sector Público
+327,2022,,1.0,,,60000000.0,prestamos,El Salvador,,Sector Privado
+328,2015,,2.0,,,46000000.0,prestamos,Honduras,,Sector Privado
+329,2017,,1.0,,,61306842.25,prestamos,El Salvador,,Sector Privado
+331,2014,,3.0,,,14250000.0,prestamos,El Salvador,,Sector Privado
+336,2021,,7.0,,,804903013.99,prestamos,Nicaragua,,Sector Público
+340,2016,,4.0,,,383647251.84000003,prestamos,El Salvador,,Sector Público
+347,2020,,1.0,,,1500000.0,prestamos,Guatemala,,Sector Privado
+349,2013,,1.0,,,10000000.0,prestamos,Panamá,,Sector Privado
+353,2011,,2.0,,,72200000.0,prestamos,Nicaragua,,Sector Privado
+355,2024,,1.0,,,100000000.0,prestamos,República Dominicana,,Sector Público
+360,2025,,1.0,,,15000000.0,prestamos,Guatemala,,Sector Privado
+361,2022,,5.0,,,836000000.0,prestamos,El Salvador,,Sector Público
+362,2015,,2.0,,,212300000.0,prestamos,Honduras,,Sector Público
+363,2017,,2.0,,,246000000.0,prestamos,El Salvador,,Sector Público
+365,2014,,5.0,,,296887500.0,prestamos,El Salvador,,Sector Público
+370,2021,,1.0,,,125000000.0,prestamos,Panamá,,Sector Privado
+373,2010,,9.0,,,35760000.0,prestamos,Costa Rica,,Sector Privado
+380,2018,,3.0,,,40000000.0,prestamos,Honduras,,Sector Privado
+382,2013,,1.0,,,80200000.0,prestamos,República Dominicana,,Sector Público
+384,2011,,5.0,,,90234985.0,prestamos,Nicaragua,,Sector Público
+390,2015,,1.0,,,40000000.0,prestamos,Nicaragua,,Sector Privado
+395,2021,,2.0,,,410000000.0,prestamos,República Dominicana,,Sector Público
+397,2010,,3.0,,,182693958.0,prestamos,Costa Rica,,Sector Público
+402,2018,,1.0,,,44262590.7,prestamos,Honduras,,Sector Público
+404,2011,,1.0,,,25000000.0,prestamos,Panamá,,Sector Privado
+405,2019,,1.0,,,45000000.0,prestamos,El Salvador,,Sector Privado
+409,2015,,4.0,,,156016547.10000002,prestamos,Nicaragua,,Sector Público
+415,2023,,3.0,,,1000000000.0,prestamos,Costa Rica,,Sector Público
+416,2016,,1.0,,,300000000.0,prestamos,Guatemala,,Sector Público
+420,2020,,4.0,,,111718430.0,prestamos,Honduras,,Sector Privado
+422,2019,,5.0,,,531162715.48,prestamos,El Salvador,,Sector Público
+424,2025,,1.0,,,165000000.0,prestamos,Honduras,,Sector Público
+425,2022,,1.0,,,100000000.0,prestamos,Guatemala,,Sector Privado
+426,2015,,1.0,,,20000000.0,prestamos,Panamá,,Sector Privado
+427,2017,,2.0,,,37000000.0,prestamos,Guatemala,,Sector Privado
+428,2014,,3.0,,,56607000.0,prestamos,Guatemala,,Sector Privado
+436,2020,,6.0,,,846779622.95,prestamos,Honduras,,Sector Público
+441,2022,,1.0,,,170000000.0,prestamos,Guatemala,,Sector Público
+442,2015,,1.0,,,200000000.0,prestamos,Panamá,,Sector Público
+443,2017,,1.0,,,100000000.0,prestamos,Guatemala,,Sector Público
+444,2014,,1.0,,,250000000.0,prestamos,Guatemala,,Sector Público
+452,2018,,3.0,,,365114696.0,prestamos,Nicaragua,,Sector Público
+456,2025,,1.0,,,75000000.0,prestamos,Panamá,,Sector Público
+463,2016,,1.0,,,40000000.0,prestamos,Honduras,,Sector Privado
+467,2020,,4.0,,,698696935.0,prestamos,Nicaragua,,Sector Público
+470,2025,,1.0,,,37187479.0,prestamos,Regional,,Sector Público
+471,2022,,1.0,,,15000000.0,prestamos,Honduras,,Sector Privado
+477,2016,,2.0,,,62182437.78,prestamos,Honduras,,Sector Público
+480,2018,,3.0,,,141000000.0,prestamos,Panamá,,Sector Privado
+483,2025,,1.0,,,80900000.0,prestamos,República Dominicana,,Sector Público
+484,2022,,2.0,,,470000000.0,prestamos,Honduras,,Sector Público
+485,2017,,1.0,,,30472000.0,prestamos,Honduras,,Sector Privado
+486,2014,,4.0,,,88700000.0,prestamos,Honduras,,Sector Privado
+489,2010,,9.0,,,6325000.0,prestamos,El Salvador,,Sector Privado
+490,2016,,1.0,,,150000000.0,prestamos,México,,Sector Público
+493,2018,,4.0,,,660000000.0,prestamos,Panamá,,Sector Público
+494,2019,,1.0,,,60000000.0,prestamos,Guatemala,,Sector Privado
+496,2022,,1.0,,,200000000.0,prestamos,Nicaragua,,Sector Público
+497,2017,,2.0,,,236834740.0,prestamos,Honduras,,Sector Público
+498,2014,,2.0,,,122044117.73,prestamos,Honduras,,Sector Público
+501,2010,,4.0,,,126540000.0,prestamos,El Salvador,,Sector Público
+505,2020,,2.0,,,400000000.0,prestamos,Panamá,,Sector Público
+506,2019,,1.0,,,285700000.0,prestamos,Guatemala,,Sector Público
+508,2022,,2.0,,,85000000.0,prestamos,Panamá,,Sector Privado
+517,2018,,2.0,,,154000000.0,prestamos,República Dominicana,,Sector Privado
+520,2022,,1.0,,,145000000.0,prestamos,Panamá,,Sector Público
+525,2016,,6.0,,,379786817.2,prestamos,Nicaragua,,Sector Público
+528,2020,,1.0,,,30000000.0,prestamos,República Dominicana,,Sector Público
+531,2022,,4.0,,,580000000.0,prestamos,República Dominicana,,Sector Público
+532,2017,,1.0,,,10000000.0,prestamos,Nicaragua,,Sector Privado
+533,2014,,4.0,,,333883194.0,prestamos,Nicaragua,,Sector Público
+536,2016,,2.0,,,156000000.0,prestamos,Panamá,,Sector Privado
+541,2017,,4.0,,,468774000.0,prestamos,Nicaragua,,Sector Público
+542,2014,,1.0,,,30000000.0,prestamos,Panamá,,Sector Privado
+545,2016,,1.0,,,100000000.0,prestamos,Panamá,,Sector Público
+550,2017,,1.0,,,20000000.0,prestamos,Panamá,,Sector Privado
+551,2010,,4.0,,,71415000.0,prestamos,Guatemala,,Sector Privado
+552,2016,,1.0,,,100000000.0,prestamos,República Dominicana,,Sector Público
+555,2019,,1.0,,,25000000.0,prestamos,Honduras,,Sector Privado
+557,2017,,2.0,,,170000000.0,prestamos,Panamá,,Sector Público
+558,2010,,1.0,,,265000000.0,prestamos,Guatemala,,Sector Público
+561,2019,,2.0,,,143586952.0,prestamos,Honduras,,Sector Público
+562,2017,,1.0,,,249600000.0,prestamos,República Dominicana,,Sector Público
+563,2023,,1.0,,,15000000.0,prestamos,Guatemala,,Sector Privado
+582,2019,,2.0,,,70800000.0,prestamos,Nicaragua,,Sector Privado
+583,2010,,7.0,,,118182669.0,prestamos,Honduras,,Sector Privado
+586,2019,,2.0,,,585344540.0,prestamos,Nicaragua,,Sector Público
+587,2010,,3.0,,,356188510.0,prestamos,Honduras,,Sector Público
+590,2019,,1.0,,,50000000.0,prestamos,Panamá,,Sector Privado
+591,2023,,1.0,,,20000000.0,prestamos,Honduras,,Sector Privado
+593,2019,,2.0,,,134000000.0,prestamos,Panamá,,Sector Público
+594,2023,,3.0,,,766988111.14,prestamos,Honduras,,Sector Público
+600,2010,,3.0,,,30400000.0,prestamos,Nicaragua,,Sector Privado
+601,2010,,2.0,,,117826951.0,prestamos,Nicaragua,,Sector Público
+602,2010,,2.0,,,12790915.0,prestamos,Panamá,,Sector Privado
+603,2010,,2.0,,,150000000.0,prestamos,República Dominicana,,Sector Público
+604,2023,,3.0,,,908226411.0,prestamos,República Dominicana,,Sector Público

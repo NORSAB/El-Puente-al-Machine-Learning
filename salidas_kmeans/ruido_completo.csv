@@ -1,0 +1,6 @@
+﻿,Año,Socio,Monto Total USD Aprobados,Cantidad Total Aprobados,cluster,cluster_desc,cluster_hdbscan,is_noise,cluster_name
+0,1961,Fundadores,275000.0,1,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+1,1962,Fundadores,3238200.0,11,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+24,1985,Fundadores,25730000.0,6,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+25,1986,Fundadores,33075000.0,9,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+51,2008,Extraregionales,5000000.0,1,3,Monto muy bajo / cant. muy baja,-1,True,Ruido

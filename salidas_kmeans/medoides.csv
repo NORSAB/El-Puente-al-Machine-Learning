@@ -1,0 +1,7 @@
+﻿_cluster,Socio,Cantidad Total Aprobados,Monto Total USD Aprobados,Año,cluster,cluster_desc,cluster_hdbscan,is_noise,cluster_name,_is_medoide
+0,Fundadores,39,36724214.0,1968,0,Bajo monto / cant. media-alta,0,False,Cluster 0,True
+1,Fundadores,42,140512650.0,1981,0,Bajo monto / cant. media-alta,1,False,Cluster 1,True
+2,Extraregionales,1,50000000.0,2011,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2,True
+3,Extraregionales,1,230000000.0,2024,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3,True
+4,Fundadores,83,703311558.9300001,2003,2,Monto alto / cant. muy alta,4,False,Cluster 4,True
+5,Fundadores,19,1509583919.8200002,2016,1,Monto alto / cant. media,5,False,Cluster 5,True

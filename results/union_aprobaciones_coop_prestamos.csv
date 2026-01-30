@@ -1,0 +1,895 @@
+_id,anio_aprobacion,cantidad,cantidad_aprobaciones,fondo,modalidad,monto_bruto_usd,origen,pais,producto,sector_institucional,socio
+1,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+2,2010,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+3,2010,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+4,2010,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+5,2020,1.0,,Fondos Ordinarios,No Reembolsable,975175.88,cooperacion,Cuba,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+6,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+7,2013,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+8,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+9,2013,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+10,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,25000.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+11,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,58004.82,cooperacion,Regional,Cooperación Técnica,,Desconocido
+12,2011,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1251210.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+13,2010,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,296000.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+14,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,24960.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+15,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,150000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+16,2020,1.0,,KTF,No Reembolsable,333333.33,cooperacion,Cuba,Cooperación Técnica,,Extraregional
+17,2011,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+18,2016,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+19,2017,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+20,2017,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+21,2019,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,25000.5,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+22,2011,1.0,,Fondos Ordinarios,No Reembolsable,66020.0,cooperacion,Regional,Otras Cooperaciones Financieras,,Desconocido
+23,2012,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+24,2011,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+25,2011,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+26,2011,2.0,,Fondos Ordinarios,No Reembolsable,400000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+27,2022,1.0,,Fondos Ordinarios,No Reembolsable,208460.0,cooperacion,Cuba,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+28,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+29,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+30,2019,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,36540.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+31,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+32,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+33,2016,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1941000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+34,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,20000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+35,2012,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+36,2011,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+37,2011,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+38,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,56488.06,cooperacion,Cuba,Cooperación Técnica,,Extraregional
+39,2020,2.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,Colombia,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+40,2022,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Argentina,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+41,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+42,2023,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,México,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+43,2020,1.0,,KTF,No Reembolsable,333333.33,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+44,2017,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,3922308.2,cooperacion,Regional,Cooperación Técnica,,Desconocido
+45,2012,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1291210.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+46,2012,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,850000.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+47,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,25000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+48,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1000000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+49,2025,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Cuba,Ayuda de Emergencia y por Desastres Naturales,,Extraregional
+50,2020,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Colombia,Cooperación Técnica,,Extraregional
+51,2022,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Argentina,Cooperación Técnica,,Extraregional
+52,2020,2.0,,KTF,No Reembolsable,391666.66,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+53,2021,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+54,2018,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,125475.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+55,2013,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2275000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+56,2015,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+57,2011,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,6006000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+58,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,Reembolsable,198500.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+59,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,298978.79,cooperacion,Colombia,Cooperación Técnica,,Extraregional
+60,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Argentina,Cooperación Técnica,,Extraregional
+61,2021,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+62,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+63,2019,3.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,219000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+64,2015,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+65,2015,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,375000.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+66,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,317994.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+67,2012,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+68,2022,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,249338.11,cooperacion,Colombia,Cooperación Técnica,,Extraregional
+69,2021,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Cooperación de Países Fundadores y Regionales no Fundadores,,Regional No Fundador
+70,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+71,2019,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1365310.8,cooperacion,Regional,Cooperación Técnica,,Desconocido
+72,2015,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+73,2016,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+74,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,278400.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+75,2012,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+76,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Colombia,Cooperación Técnica,,Extraregional
+77,2021,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,813748.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+78,2022,1.0,,KTF,No Reembolsable,950000.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+79,2020,2.0,,Fondos Ordinarios,No Reembolsable,4400000.0,cooperacion,Regional,Ayuda de Emergencia y por Desastres Naturales,,Desconocido
+80,2015,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,100000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+81,2016,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,24990.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+82,2014,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,5500.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+83,2012,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,15000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+84,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99744.75,cooperacion,Colombia,Cooperación Técnica,,Extraregional
+85,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1680000.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+86,2023,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,108675.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+87,2020,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,685000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+88,2015,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1598962.2,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+89,2019,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,802500.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+90,2015,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+91,2013,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,9000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+92,2021,1.0,,KTF,No Reembolsable,630000.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+93,2023,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,400000.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+94,2020,10.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1930740.75,cooperacion,Regional,Cooperación Técnica,,Desconocido
+95,2016,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+96,2020,2.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+97,2015,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,100000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+98,2014,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+99,2022,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+100,2023,1.0,,Fondos Ordinarios,No Reembolsable,974037.02,cooperacion,Belice,Otras Cooperaciones Financieras,,Regional No Fundador
+101,2020,3.0,,KTF,No Reembolsable,550000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+102,2016,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,101482.5,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+103,2020,3.0,,KTF,No Reembolsable,841666.66,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+104,2015,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,990000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+105,2015,2.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+106,2022,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,1558750.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+107,2024,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Belice,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+108,2021,2.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,765000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+109,2016,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,192500.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+110,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+111,2016,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+112,2015,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,113650.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+113,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,325500.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+114,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+115,2021,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,430000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+116,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+117,2021,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+118,2016,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,40740.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+119,2016,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+120,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,4060375.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+121,2024,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,986050.45,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+122,2021,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1832713.75,cooperacion,Regional,Cooperación Técnica,,Desconocido
+123,2017,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,24990.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+124,2021,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,194250.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+125,2016,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,398750.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+126,2016,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,98811.3,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+127,2022,3.0,,KTF,No Reembolsable,2000000.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+128,2025,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,950000.0,cooperacion,Belice,Cooperación Técnica,,Regional No Fundador
+129,2021,3.0,,KTF,No Reembolsable,300000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+130,2018,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+131,2021,1.0,,KTF,No Reembolsable,125000.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+132,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+133,2017,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,64837.5,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+134,2023,3.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+135,2010,1.0,,Fondos Ordinarios,No Reembolsable,200000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+136,2022,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1122745.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+137,2018,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1320000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+138,2022,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+139,2017,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+140,2018,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+141,2023,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,República Dominicana,Cooperación de Países Fundadores y Regionales no Fundadores,,Regional No Fundador
+142,2012,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+143,2022,2.0,,KTF,No Reembolsable,200000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+144,2019,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,177850.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+145,2022,2.0,,KTF,No Reembolsable,1150000.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+146,2017,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,88725.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+147,2018,1.0,,FIMCA,No Reembolsable,3691000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+148,2023,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,157434.45,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+149,2013,1.0,,Fondos Ordinarios,No Reembolsable,270000.0,cooperacion,Panamá,Otras Cooperaciones Financieras,,Regional No Fundador
+150,2022,1.0,,Fondos Ordinarios,No Reembolsable,700000.0,cooperacion,Regional,Otras Cooperaciones Financieras,,Desconocido
+151,2019,1.0,,FVC - Fondo Verde para el Clima,No Reembolsable,562960.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+152,2023,2.0,,Fondos Ordinarios,No Reembolsable,1250000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+153,2018,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+154,2018,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,44735.04,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+155,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,995000.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+156,2020,2.0,,Fondos Ordinarios,No Reembolsable,1500000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+157,2023,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,87200.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+158,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+159,2023,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,115500.0,cooperacion,El Salvador,Cooperación Técnica,,Fundador
+160,2018,2.0,,Facilidad FASEP ,No Reembolsable,1615335.23,cooperacion,Honduras,Cooperación Técnica,,Fundador
+161,2019,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,299722.5,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+162,2023,1.0,,Fondos Ordinarios,No Reembolsable,110000.0,cooperacion,República Dominicana,Otras Cooperaciones Financieras,,Regional No Fundador
+163,2020,2.0,,KTF,No Reembolsable,391666.66,cooperacion,Panamá,Cooperación Técnica,,Regional No Fundador
+164,2023,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1358075.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+165,2020,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,140614.5,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+166,2023,1.0,,Fondos Ordinarios,No Reembolsable,160000.0,cooperacion,El Salvador,Otras Cooperaciones Financieras,,Fundador
+167,2018,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,23100.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+168,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+169,2024,1.0,,Fondos Ordinarios,No Reembolsable,600000.0,cooperacion,República Dominicana,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+170,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Panamá,Ayuda de Emergencia y por Desastres Naturales,,Regional No Fundador
+171,2023,3.0,,KTF,No Reembolsable,1100000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+172,2020,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,916072.22,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+173,2024,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,El Salvador,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+174,2018,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2568754.1,cooperacion,Honduras,Cooperación Técnica,,Fundador
+175,2020,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,133987.5,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+176,2024,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,393750.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+177,2021,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1262650.0,cooperacion,Panamá,Cooperación Técnica,,Regional No Fundador
+178,2024,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,1196710.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+179,2020,2.0,,KTF,No Reembolsable,391666.66,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+180,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,El Salvador,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+181,2019,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+182,2020,3.0,,KTF,No Reembolsable,508333.33,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+183,2024,2.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,República Dominicana,Iniciativa PRODES,,Regional No Fundador
+184,2021,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2420000.0,cooperacion,Panamá,Cooperación Técnica,,Regional No Fundador
+185,2024,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,1078686.8,cooperacion,Regional,Cooperación Técnica,,Desconocido
+186,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+187,2014,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,82040.0,cooperacion,Institucional,Cooperación Técnica,,Desconocido
+188,2019,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,371338.9,cooperacion,Honduras,Cooperación Técnica,,Fundador
+189,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+190,2025,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,99750.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+191,2021,2.0,,KTF,No Reembolsable,755000.0,cooperacion,Panamá,Cooperación Técnica,,Regional No Fundador
+192,2024,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,290000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+193,2021,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,199500.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+194,2016,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,162420.9,cooperacion,Institucional,Cooperación Técnica,,Desconocido
+195,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+196,2021,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,94500.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+197,2025,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,199500.0,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+198,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Panamá,Cooperación de Países Fundadores y Regionales no Fundadores,,Regional No Fundador
+199,2025,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,172000.0,cooperacion,Regional,Cooperación Técnica,,Desconocido
+200,2021,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1020052.5,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+201,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,26250.0,cooperacion,Institucional,Cooperación Técnica,,Desconocido
+202,2020,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+203,2021,1.0,,KTF,No Reembolsable,125000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+204,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,209576.85,cooperacion,República Dominicana,Cooperación Técnica,,Regional No Fundador
+205,2022,1.0,,KTF,No Reembolsable,600000.0,cooperacion,Panamá,Cooperación Técnica,,Regional No Fundador
+206,2025,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,259241.62,cooperacion,Regional,Cooperación Técnica,,Desconocido
+207,2021,3.0,,KTF,No Reembolsable,1425000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+208,2022,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,138600.0,cooperacion,Institucional,Cooperación Técnica,,Desconocido
+209,2020,8.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,470268.75,cooperacion,Honduras,Cooperación Técnica,,Fundador
+210,2022,2.0,,Fondos Ordinarios,No Reembolsable,750000.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+211,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,Panamá,Iniciativa PRODES,,Regional No Fundador
+212,2022,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+213,2020,3.0,,KTF,No Reembolsable,508333.33,cooperacion,Honduras,Cooperación Técnica,,Fundador
+214,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Guatemala,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+215,2022,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+216,2021,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+217,2022,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,130000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+218,2022,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,147000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+219,2021,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,550000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+220,2022,3.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,244650.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+221,2022,2.0,,KTF,No Reembolsable,1120000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+222,2021,6.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,238980.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+223,2023,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,650000.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+224,2023,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,200000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+225,2021,3.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,7382734.79,cooperacion,Honduras,Cooperación Técnica,,Fundador
+226,2024,3.0,,Fondos Ordinarios,No Reembolsable,1178848.0,cooperacion,Guatemala,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+227,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99750.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+228,2021,2.0,,KTF,No Reembolsable,225000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+229,2025,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,152250.0,cooperacion,Guatemala,Cooperación Técnica,,Fundador
+230,2023,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1540000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+231,2022,2.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+232,2023,1.0,,Fondos Ordinarios,No Reembolsable,1050000.0,cooperacion,Costa Rica,Otras Cooperaciones Financieras,,Fundador
+233,2022,2.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,335000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+234,2024,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Costa Rica,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+235,2022,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,250164.95,cooperacion,Honduras,Cooperación Técnica,,Fundador
+236,2024,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Costa Rica,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+237,2022,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,357500.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+238,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,99445.5,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+239,2022,1.0,,KTF,No Reembolsable,850000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+240,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,5940000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+241,2022,1.0,,TCPT - Taiwan CABEI Partnership Trust Fund,No Reembolsable,550000.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+242,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,Costa Rica,Iniciativa PRODES,,Fundador
+243,2023,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+244,2025,1.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,700000.0,cooperacion,Costa Rica,Cooperación Técnica,,Fundador
+245,2023,6.0,,FCC - Fondo de Preparación de Proyectos de Inversión en Cambio Climático,No Reembolsable,1804500.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+246,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,52500.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+247,2023,5.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,7483208.71,cooperacion,Honduras,Cooperación Técnica,,Fundador
+248,2024,2.0,,Fondos Ordinarios,No Reembolsable,750000.0,cooperacion,Honduras,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+249,2024,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Honduras,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+250,2024,4.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,214200.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+251,2024,1.0,,Fondos Ordinarios,No Reembolsable,725000.0,cooperacion,Honduras,Iniciativa PRODES,,Fundador
+252,2025,7.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,436800.0,cooperacion,Honduras,Cooperación Técnica,,Fundador
+253,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,264600.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+254,2010,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,500000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+255,2011,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+256,2011,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Nicaragua,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+257,2011,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,264600.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+258,2011,5.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,3757728.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+259,2012,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,2644901.89,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+260,2012,1.0,,Fondos Ordinarios,No Reembolsable,230360.0,cooperacion,Nicaragua,Otras Cooperaciones Financieras,,Fundador
+261,2013,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+262,2013,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,192294.07,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+263,2013,1.0,,FSC Taiwan ICDF,No Reembolsable,1000000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+264,2014,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+265,2014,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,39600.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+266,2015,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+267,2015,1.0,,Fondos Ordinarios,No Reembolsable,1000000.0,cooperacion,Nicaragua,Cooperación de Países Fundadores y Regionales no Fundadores,,Fundador
+268,2015,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,350000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+269,2016,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+270,2016,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,283250.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+271,2017,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+272,2017,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1408900.5,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+273,2018,1.0,,Fondos Ordinarios,No Reembolsable,250000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+274,2018,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1995000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+275,2019,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,283250.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+276,2020,3.0,,Fondos Ordinarios,No Reembolsable,2000000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+277,2020,1.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,36225.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+278,2020,2.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,707598.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+279,2020,2.0,,KTF,No Reembolsable,450000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+280,2021,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+281,2021,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,1227119.25,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+282,2021,1.0,,FVC - Fondo Verde para el Clima,No Reembolsable,749584.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+283,2021,1.0,,KTF,No Reembolsable,125000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+284,2022,1.0,,Fondos Ordinarios,No Reembolsable,500000.0,cooperacion,Nicaragua,Ayuda de Emergencia y por Desastres Naturales,,Fundador
+285,2022,1.0,,FATPIR - Fondo de Asistencia Técnica para Proyectos de Integración Regional,No Reembolsable,93500.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+286,2022,2.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,81900.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+287,2023,5.0,,FONTEC - Fondo de Cooperación Técnica,No Reembolsable,244072.5,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+288,2023,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,810579.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+289,2023,1.0,,FVC - Fondo Verde para el Clima,No Reembolsable,748282.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+290,2024,1.0,,FONTEC - Fondo de Cooperación Técnica,Recuperación Contingente,880000.0,cooperacion,Nicaragua,Cooperación Técnica,,Fundador
+1,2012,,1.0,,,3000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+2,2022,,4.0,,,115000000.0,prestamos,Argentina,,Sector Público,Extraregional
+3,2015,,1.0,,,50000000.0,prestamos,Argentina,,Sector Público,Extraregional
+4,2017,,1.0,,,30000000.0,prestamos,Argentina,,Sector Público,Extraregional
+5,2003,,12.0,,,54336000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+6,2014,,1.0,,,30000000.0,prestamos,Belice,,Sector Público,Regional No Fundador
+7,2009,,1.0,,,1905800.0,prestamos,Belice,,Sector Público,Regional No Fundador
+8,2008,,1.0,,,5000000.0,prestamos,Colombia,,Sector Privado,Extraregional
+9,1965,,4.0,,,1284100.0,prestamos,Costa Rica,,Sector Privado,Fundador
+10,1981,,4.0,,,2771000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+11,1986,,1.0,,,3000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+12,1985,,2.0,,,6600000.0,prestamos,Costa Rica,,Sector Público,Fundador
+13,2021,,3.0,,,150000000.0,prestamos,Argentina,,Sector Público,Extraregional
+14,1963,,2.0,,,62000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+15,1969,,6.0,,,604600.0,prestamos,Costa Rica,,Sector Privado,Fundador
+16,1978,,5.0,,,7735000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+17,2023,,3.0,,,625000000.0,prestamos,Argentina,,Sector Público,Extraregional
+18,2016,,2.0,,,90000000.0,prestamos,Argentina,,Sector Público,Extraregional
+19,1967,,5.0,,,1164600.0,prestamos,Costa Rica,,Sector Privado,Fundador
+20,1994,,31.0,,,78026000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+21,1976,,5.0,,,4439000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+22,1971,,9.0,,,2816075.0,prestamos,Costa Rica,,Sector Privado,Fundador
+23,2005,,2.0,,,71120000.0,prestamos,Colombia,,Sector Público,Extraregional
+24,1968,,3.0,,,761000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+25,1999,,5.0,,,18809037.0,prestamos,Costa Rica,,Sector Privado,Fundador
+26,2018,,1.0,,,32000000.0,prestamos,Argentina,,Sector Público,Extraregional
+27,1974,,11.0,,,9478100.0,prestamos,Costa Rica,,Sector Privado,Fundador
+28,2013,,4.0,,,34775000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+29,1992,,7.0,,,9200145.0,prestamos,Costa Rica,,Sector Privado,Fundador
+30,1989,,4.0,,,38000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+31,1995,,16.0,,,40150000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+32,2000,,7.0,,,38630000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+33,2011,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público,Extraregional
+34,1991,,1.0,,,4200000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+35,1988,,5.0,,,23000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+36,1973,,11.0,,,8680000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+37,2024,,1.0,,,230000000.0,prestamos,Argentina,,Sector Público,Extraregional
+38,1990,,4.0,,,28375000.0,prestamos,Costa Rica,,Sector Público,Fundador
+39,1977,,1.0,,,2000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+40,2019,,1.0,,,67000000.0,prestamos,Argentina,,Sector Público,Extraregional
+41,1982,,1.0,,,8500000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+42,2007,,1.0,,,136948000.0,prestamos,Colombia,,Sector Privado,Extraregional
+43,1996,,21.0,,,35521099.0,prestamos,Costa Rica,,Sector Privado,Fundador
+44,2012,,4.0,,,350000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+45,2022,,1.0,,,24000000.0,prestamos,Belice,,Sector Público,Regional No Fundador
+46,2015,,1.0,,,136000000.0,prestamos,Colombia,,Sector Público,Extraregional
+47,2017,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público,Extraregional
+48,2003,,3.0,,,118330255.46000001,prestamos,Costa Rica,,Sector Público,Fundador
+49,2014,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público,Extraregional
+50,1975,,4.0,,,5828000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+51,2008,,11.0,,,27000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+52,1965,,2.0,,,2000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+53,1981,,4.0,,,19000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+54,1986,,1.0,,,400000.0,prestamos,El Salvador,,Sector Privado,Fundador
+55,1985,,1.0,,,1980000.0,prestamos,El Salvador,,Sector Público,Fundador
+56,2021,,2.0,,,580000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+57,1963,,5.0,,,2426600.0,prestamos,El Salvador,,Sector Privado,Fundador
+58,1969,,10.0,,,13134000.0,prestamos,Costa Rica,,Sector Público,Fundador
+59,1978,,7.0,,,37020000.0,prestamos,Costa Rica,,Sector Público,Fundador
+60,2010,,2.0,,,10667410.0,prestamos,Belice,,Sector Público,Regional No Fundador
+61,1993,,20.0,,,25000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+62,1967,,2.0,,,5990000.0,prestamos,Costa Rica,,Sector Público,Fundador
+63,1994,,11.0,,,65784244.0,prestamos,Costa Rica,,Sector Público,Fundador
+64,1976,,9.0,,,37043000.0,prestamos,Costa Rica,,Sector Público,Fundador
+65,1971,,3.0,,,6200000.0,prestamos,Costa Rica,,Sector Público,Fundador
+66,1979,,4.0,,,12000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+67,1968,,5.0,,,3022000.0,prestamos,Costa Rica,,Sector Público,Fundador
+68,1999,,4.0,,,73333101.0,prestamos,Costa Rica,,Sector Público,Fundador
+69,2020,,1.0,,,50000000.0,prestamos,Argentina,,Sector Público,Extraregional
+70,1974,,18.0,,,40330000.0,prestamos,Costa Rica,,Sector Público,Fundador
+71,2013,,4.0,,,515000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+72,1992,,6.0,,,45965600.0,prestamos,Costa Rica,,Sector Público,Fundador
+73,1989,,3.0,,,12000000.0,prestamos,El Salvador,,Sector Público,Fundador
+74,1995,,5.0,,,60035316.0,prestamos,Costa Rica,,Sector Público,Fundador
+75,2000,,4.0,,,74091406.0,prestamos,Costa Rica,,Sector Público,Fundador
+76,2011,,5.0,,,31000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+77,1991,,3.0,,,32700000.0,prestamos,Costa Rica,,Sector Público,Fundador
+78,1988,,4.0,,,16740000.0,prestamos,El Salvador,,Sector Público,Fundador
+79,1973,,8.0,,,25900000.0,prestamos,Costa Rica,,Sector Público,Fundador
+80,2024,,1.0,,,770000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+81,1990,,5.0,,,37670000.0,prestamos,El Salvador,,Sector Público,Fundador
+82,1977,,5.0,,,18760000.0,prestamos,Costa Rica,,Sector Público,Fundador
+83,1966,,6.0,,,3118500.0,prestamos,Costa Rica,,Sector Privado,Fundador
+84,1982,,2.0,,,8000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+85,2007,,1.0,,,50000000.0,prestamos,Colombia,,Sector Público,Extraregional
+86,1996,,8.0,,,67254960.0,prestamos,Costa Rica,,Sector Público,Fundador
+87,2012,,3.0,,,18000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+88,2022,,1.0,,,250000000.0,prestamos,Colombia,,Sector Público,Extraregional
+89,2015,,4.0,,,73000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+90,1964,,6.0,,,1123435.0,prestamos,Costa Rica,,Sector Privado,Fundador
+91,2003,,13.0,,,29976300.0,prestamos,El Salvador,,Sector Privado,Fundador
+92,2002,,13.0,,,70164000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+93,1975,,9.0,,,26066000.0,prestamos,Costa Rica,,Sector Público,Fundador
+94,2008,,5.0,,,172390000.0,prestamos,Costa Rica,,Sector Público,Fundador
+95,1965,,7.0,,,5096700.0,prestamos,El Salvador,,Sector Privado,Fundador
+96,1981,,2.0,,,481100.0,prestamos,El Salvador,,Sector Privado,Fundador
+97,1986,,1.0,,,13000000.0,prestamos,El Salvador,,Sector Público,Fundador
+98,1985,,1.0,,,8000000.0,prestamos,Guatemala,,Sector Público,Fundador
+99,2021,,1.0,,,20000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+100,1963,,1.0,,,20000.0,prestamos,El Salvador,,Sector Público,Fundador
+101,1969,,9.0,,,3610130.0,prestamos,El Salvador,,Sector Privado,Fundador
+102,1980,,6.0,,,5761288.0,prestamos,Costa Rica,,Sector Privado,Fundador
+103,2023,,1.0,,,2500000.0,prestamos,Belice,,Sector Público,Regional No Fundador
+104,1993,,4.0,,,21750000.0,prestamos,Costa Rica,,Sector Público,Fundador
+105,1967,,4.0,,,986000.0,prestamos,El Salvador,,Sector Privado,Fundador
+106,1994,,17.0,,,24313000.0,prestamos,El Salvador,,Sector Privado,Fundador
+107,1998,,24.0,,,84786168.0,prestamos,Costa Rica,,Sector Privado,Fundador
+108,1983,,1.0,,,1800000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+109,1979,,9.0,,,33110000.0,prestamos,Costa Rica,,Sector Público,Fundador
+110,1968,,5.0,,,1525700.0,prestamos,El Salvador,,Sector Privado,Fundador
+111,1999,,6.0,,,61619477.0,prestamos,El Salvador,,Sector Privado,Fundador
+112,2018,,3.0,,,530284067.0,prestamos,Costa Rica,,Sector Público,Fundador
+113,1984,,1.0,,,1650000.0,prestamos,Costa Rica,,Sector Público,Fundador
+114,2013,,4.0,,,199208600.0,prestamos,El Salvador,,Sector Público,Fundador
+115,1992,,3.0,,,14000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+116,1989,,1.0,,,99000.0,prestamos,Guatemala,,Sector Privado,Fundador
+117,1995,,13.0,,,71513548.0,prestamos,El Salvador,,Sector Privado,Fundador
+118,2000,,1.0,,,7830000.0,prestamos,El Salvador,,Sector Privado,Fundador
+119,2011,,3.0,,,499000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+120,1991,,1.0,,,1000000.0,prestamos,El Salvador,,Sector Público,Fundador
+121,1988,,10.0,,,37600000.0,prestamos,Honduras,,Sector Público,Fundador
+122,1973,,8.0,,,9430000.0,prestamos,El Salvador,,Sector Privado,Fundador
+123,2024,,2.0,,,263900000.0,prestamos,El Salvador,,Sector Público,Fundador
+124,1990,,2.0,,,15220600.0,prestamos,Guatemala,,Sector Privado,Fundador
+125,1977,,2.0,,,14100000.0,prestamos,El Salvador,,Sector Público,Fundador
+126,1966,,1.0,,,4700000.0,prestamos,Costa Rica,,Sector Público,Fundador
+127,1982,,3.0,,,2000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+128,2001,,4.0,,,31000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+129,2025,,2.0,,,815000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+130,2012,,3.0,,,193161825.0,prestamos,El Salvador,,Sector Público,Fundador
+131,1987,,1.0,,,1000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+132,2015,,2.0,,,202587964.87,prestamos,Costa Rica,,Sector Público,Fundador
+133,1964,,2.0,,,1163000.0,prestamos,Costa Rica,,Sector Público,Fundador
+134,2003,,3.0,,,143500000.0,prestamos,El Salvador,,Sector Público,Fundador
+135,2002,,6.0,,,280000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+136,2009,,5.0,,,32900000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+137,2008,,3.0,,,15261000.0,prestamos,El Salvador,,Sector Privado,Fundador
+138,1965,,2.0,,,1066000.0,prestamos,El Salvador,,Sector Público,Fundador
+139,1981,,4.0,,,9200000.0,prestamos,El Salvador,,Sector Público,Fundador
+140,1986,,6.0,,,16675000.0,prestamos,Honduras,,Sector Público,Fundador
+141,1985,,2.0,,,9150000.0,prestamos,Honduras,,Sector Público,Fundador
+142,2021,,3.0,,,864700000.0,prestamos,El Salvador,,Sector Público,Fundador
+143,1963,,11.0,,,3327500.0,prestamos,Guatemala,,Sector Privado,Fundador
+144,1969,,3.0,,,7250000.0,prestamos,El Salvador,,Sector Público,Fundador
+145,1980,,7.0,,,20970000.0,prestamos,Costa Rica,,Sector Público,Fundador
+146,2010,,1.0,,,35321000.0,prestamos,Colombia,,Sector Privado,Extraregional
+147,2016,,1.0,,,50000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+148,1967,,2.0,,,292000.0,prestamos,Guatemala,,Sector Privado,Fundador
+149,1994,,9.0,,,144238000.0,prestamos,El Salvador,,Sector Público,Fundador
+150,1998,,3.0,,,56698182.0,prestamos,Costa Rica,,Sector Público,Fundador
+151,1983,,3.0,,,15402200.0,prestamos,Costa Rica,,Sector Público,Fundador
+152,1997,,13.0,,,26300000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+153,1968,,2.0,,,7900000.0,prestamos,El Salvador,,Sector Público,Fundador
+154,1999,,10.0,,,56093000.0,prestamos,Guatemala,,Sector Privado,Fundador
+155,2020,,1.0,,,6000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+156,1974,,6.0,,,8070000.0,prestamos,El Salvador,,Sector Privado,Fundador
+157,2013,,1.0,,,18750000.0,prestamos,Guatemala,,Sector Privado,Fundador
+158,1992,,4.0,,,36800000.0,prestamos,El Salvador,,Sector Público,Fundador
+159,1989,,3.0,,,7000000.0,prestamos,Guatemala,,Sector Público,Fundador
+160,1995,,2.0,,,21150000.0,prestamos,El Salvador,,Sector Público,Fundador
+161,2000,,2.0,,,80000000.0,prestamos,El Salvador,,Sector Público,Fundador
+162,2011,,5.0,,,53625000.0,prestamos,El Salvador,,Sector Privado,Fundador
+163,1991,,1.0,,,6500000.0,prestamos,Guatemala,,Sector Privado,Fundador
+164,1973,,3.0,,,6560000.0,prestamos,El Salvador,,Sector Público,Fundador
+165,1961,,1.0,,,275000.0,prestamos,Guatemala,,Sector Privado,Fundador
+166,1990,,4.0,,,28600000.0,prestamos,Guatemala,,Sector Público,Fundador
+167,1977,,1.0,,,3000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+168,2004,,9.0,,,34790000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+169,1982,,2.0,,,17800000.0,prestamos,El Salvador,,Sector Público,Fundador
+170,2001,,3.0,,,130853800.0,prestamos,Costa Rica,,Sector Público,Fundador
+171,1996,,18.0,,,54254000.0,prestamos,El Salvador,,Sector Privado,Fundador
+172,2012,,5.0,,,86288817.45,prestamos,Guatemala,,Sector Privado,Fundador
+173,1987,,6.0,,,17200000.0,prestamos,Costa Rica,,Sector Público,Fundador
+174,2015,,5.0,,,90000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+175,2017,,1.0,,,1350000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+176,2003,,10.0,,,47050000.0,prestamos,Guatemala,,Sector Privado,Fundador
+177,2014,,4.0,,,21000000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+178,2009,,6.0,,,343538203.07,prestamos,Costa Rica,,Sector Público,Fundador
+179,2008,,5.0,,,284605000.0,prestamos,El Salvador,,Sector Público,Fundador
+180,1965,,7.0,,,1751090.0,prestamos,Guatemala,,Sector Privado,Fundador
+181,1981,,4.0,,,6300000.0,prestamos,Guatemala,,Sector Privado,Fundador
+182,2021,,1.0,,,7000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+183,1963,,1.0,,,107000.0,prestamos,Guatemala,,Sector Público,Fundador
+184,1969,,4.0,,,1915000.0,prestamos,Guatemala,,Sector Privado,Fundador
+185,1978,,12.0,,,11020000.0,prestamos,El Salvador,,Sector Privado,Fundador
+186,2023,,1.0,,,250000000.0,prestamos,Colombia,,Sector Público,Extraregional
+187,2016,,3.0,,,291842413.0,prestamos,Costa Rica,,Sector Público,Fundador
+188,1967,,2.0,,,6433000.0,prestamos,Guatemala,,Sector Público,Fundador
+189,1994,,23.0,,,37259235.0,prestamos,Guatemala,,Sector Privado,Fundador
+190,2006,,19.0,,,135600000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+191,1971,,7.0,,,2257157.14,prestamos,El Salvador,,Sector Privado,Fundador
+192,1997,,3.0,,,92407500.0,prestamos,Costa Rica,,Sector Público,Fundador
+193,1968,,5.0,,,1657000.0,prestamos,Guatemala,,Sector Privado,Fundador
+194,1999,,5.0,,,87274200.0,prestamos,Guatemala,,Sector Público,Fundador
+195,2020,,2.0,,,699160000.0,prestamos,Costa Rica,,Sector Público,Fundador
+196,1974,,5.0,,,4750000.0,prestamos,El Salvador,,Sector Público,Fundador
+197,2013,,2.0,,,56802700.0,prestamos,Honduras,,Sector Privado,Fundador
+198,1992,,7.0,,,11660000.0,prestamos,Guatemala,,Sector Privado,Fundador
+199,1989,,4.0,,,48000000.0,prestamos,Honduras,,Sector Público,Fundador
+200,1995,,36.0,,,98925000.0,prestamos,Guatemala,,Sector Privado,Fundador
+201,2000,,4.0,,,23500000.0,prestamos,Guatemala,,Sector Privado,Fundador
+202,2011,,4.0,,,232212173.8,prestamos,El Salvador,,Sector Público,Fundador
+203,1991,,2.0,,,5200000.0,prestamos,Guatemala,,Sector Público,Fundador
+204,1973,,7.0,,,7391620.0,prestamos,Guatemala,,Sector Privado,Fundador
+205,2024,,2.0,,,19000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+206,1990,,9.0,,,58900000.0,prestamos,Honduras,,Sector Público,Fundador
+207,1977,,5.0,,,11800000.0,prestamos,Guatemala,,Sector Público,Fundador
+208,2004,,3.0,,,147000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+209,1982,,1.0,,,500000.0,prestamos,Guatemala,,Sector Privado,Fundador
+210,2007,,23.0,,,505200000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+211,1996,,7.0,,,132163530.0,prestamos,El Salvador,,Sector Público,Fundador
+212,2012,,1.0,,,280000000.0,prestamos,Guatemala,,Sector Público,Fundador
+213,2022,,3.0,,,1190000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+214,2015,,5.0,,,250521814.0,prestamos,El Salvador,,Sector Público,Fundador
+215,2017,,3.0,,,214410000.0,prestamos,Costa Rica,,Sector Público,Fundador
+216,2003,,2.0,,,52600000.0,prestamos,Guatemala,,Sector Público,Fundador
+217,2014,,4.0,,,308000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+218,1975,,4.0,,,3120000.0,prestamos,El Salvador,,Sector Privado,Fundador
+219,2008,,15.0,,,97894000.0,prestamos,Guatemala,,Sector Privado,Fundador
+220,1965,,1.0,,,437000.0,prestamos,Guatemala,,Sector Público,Fundador
+221,1981,,4.0,,,19189000.0,prestamos,Guatemala,,Sector Público,Fundador
+222,2021,,1.0,,,2500000.0,prestamos,Honduras,,Sector Privado,Fundador
+223,1963,,7.0,,,3767400.0,prestamos,Honduras,,Sector Privado,Fundador
+224,1969,,3.0,,,5450000.0,prestamos,Guatemala,,Sector Público,Fundador
+225,1978,,1.0,,,24500000.0,prestamos,El Salvador,,Sector Público,Fundador
+226,1970,,5.0,,,2410000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+227,1993,,13.0,,,18290000.0,prestamos,El Salvador,,Sector Privado,Fundador
+228,1967,,4.0,,,721300.0,prestamos,Honduras,,Sector Privado,Fundador
+229,1994,,3.0,,,46883400.0,prestamos,Guatemala,,Sector Público,Fundador
+230,2006,,9.0,,,613265400.0,prestamos,Costa Rica,,Sector Público,Fundador
+231,1971,,2.0,,,2600000.0,prestamos,El Salvador,,Sector Público,Fundador
+232,2005,,6.0,,,49089300.0,prestamos,Costa Rica,,Sector Privado,Fundador
+233,1968,,2.0,,,5767000.0,prestamos,Guatemala,,Sector Público,Fundador
+234,1999,,3.0,,,18848000.0,prestamos,Honduras,,Sector Privado,Fundador
+235,2018,,3.0,,,283500000.0,prestamos,El Salvador,,Sector Público,Fundador
+236,1984,,1.0,,,7600000.0,prestamos,El Salvador,,Sector Público,Fundador
+237,2013,,4.0,,,103000000.0,prestamos,Honduras,,Sector Público,Fundador
+238,1992,,14.0,,,14705167.0,prestamos,Honduras,,Sector Privado,Fundador
+239,1989,,5.0,,,4650000.0,prestamos,Nicaragua,,Sector Público,Fundador
+240,1995,,3.0,,,12000000.0,prestamos,Guatemala,,Sector Público,Fundador
+241,2000,,2.0,,,52500000.0,prestamos,Guatemala,,Sector Público,Fundador
+242,2011,,4.0,,,64650000.0,prestamos,Guatemala,,Sector Privado,Fundador
+243,1991,,8.0,,,54100000.0,prestamos,Honduras,,Sector Público,Fundador
+244,1973,,5.0,,,11361000.0,prestamos,Guatemala,,Sector Público,Fundador
+245,2024,,3.0,,,476300000.0,prestamos,Honduras,,Sector Público,Fundador
+246,1990,,3.0,,,30000000.0,prestamos,Nicaragua,,Sector Público,Fundador
+247,1977,,6.0,,,3328000.0,prestamos,Honduras,,Sector Privado,Fundador
+248,2019,,2.0,,,640055000.0,prestamos,Costa Rica,,Sector Público,Fundador
+249,1982,,3.0,,,36100000.0,prestamos,Guatemala,,Sector Público,Fundador
+250,2007,,2.0,,,145000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+251,2025,,3.0,,,350000000.0,prestamos,El Salvador,,Sector Público,Fundador
+252,2012,,1.0,,,24400000.0,prestamos,Honduras,,Sector Privado,Fundador
+253,2022,,1.0,,,50000000.0,prestamos,Cuba,,Sector Público,Extraregional
+254,2015,,1.0,,,10000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+255,1964,,3.0,,,451500.0,prestamos,El Salvador,,Sector Privado,Fundador
+256,2003,,17.0,,,129896660.0,prestamos,Honduras,,Sector Privado,Fundador
+257,2002,,10.0,,,79080000.0,prestamos,El Salvador,,Sector Privado,Fundador
+258,1975,,3.0,,,18320000.0,prestamos,El Salvador,,Sector Público,Fundador
+259,2008,,3.0,,,278000000.0,prestamos,Guatemala,,Sector Público,Fundador
+260,1965,,7.0,,,1630467.0,prestamos,Honduras,,Sector Privado,Fundador
+261,1981,,4.0,,,5952200.0,prestamos,Honduras,,Sector Privado,Fundador
+262,2021,,6.0,,,717766365.18,prestamos,Honduras,,Sector Público,Fundador
+263,1963,,2.0,,,349500.0,prestamos,Honduras,,Sector Público,Fundador
+264,1969,,11.0,,,2575300.0,prestamos,Honduras,,Sector Privado,Fundador
+265,1980,,3.0,,,7480000.0,prestamos,El Salvador,,Sector Privado,Fundador
+266,1970,,1.0,,,3021100.0,prestamos,Costa Rica,,Sector Público,Fundador
+267,1993,,4.0,,,61819000.0,prestamos,El Salvador,,Sector Público,Fundador
+268,1967,,3.0,,,1175680.0,prestamos,Honduras,,Sector Público,Fundador
+269,1994,,21.0,,,40951800.0,prestamos,Honduras,,Sector Privado,Fundador
+270,1962,,4.0,,,1546000.0,prestamos,El Salvador,,Sector Privado,Fundador
+271,1971,,10.0,,,4033000.0,prestamos,Guatemala,,Sector Privado,Fundador
+272,2005,,7.0,,,416970508.18,prestamos,Costa Rica,,Sector Público,Fundador
+273,1968,,6.0,,,804800.0,prestamos,Honduras,,Sector Privado,Fundador
+274,1999,,7.0,,,20500000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+275,2020,,4.0,,,615200000.0,prestamos,El Salvador,,Sector Público,Fundador
+276,1974,,6.0,,,4815000.0,prestamos,Guatemala,,Sector Privado,Fundador
+277,2013,,1.0,,,3000000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+278,1992,,9.0,,,75072000.0,prestamos,Honduras,,Sector Público,Fundador
+279,1995,,18.0,,,57755000.0,prestamos,Honduras,,Sector Privado,Fundador
+280,2000,,5.0,,,34431050.0,prestamos,Honduras,,Sector Privado,Fundador
+281,2011,,1.0,,,119400000.0,prestamos,Guatemala,,Sector Público,Fundador
+282,1991,,5.0,,,67200000.0,prestamos,Nicaragua,,Sector Público,Fundador
+283,1973,,10.0,,,6340800.0,prestamos,Honduras,,Sector Privado,Fundador
+284,2024,,1.0,,,130000000.0,prestamos,Nicaragua,,Sector Público,Fundador
+285,1977,,8.0,,,16790000.0,prestamos,Honduras,,Sector Público,Fundador
+286,1966,,4.0,,,618400.0,prestamos,El Salvador,,Sector Privado,Fundador
+287,1982,,1.0,,,500000.0,prestamos,Honduras,,Sector Privado,Fundador
+288,2001,,14.0,,,12800000.0,prestamos,El Salvador,,Sector Privado,Fundador
+289,1996,,23.0,,,75665700.0,prestamos,Guatemala,,Sector Privado,Fundador
+290,2012,,8.0,,,356337976.09000003,prestamos,Honduras,,Sector Público,Fundador
+291,1987,,7.0,,,49800000.0,prestamos,El Salvador,,Sector Público,Fundador
+292,2015,,2.0,,,370000000.0,prestamos,Guatemala,,Sector Público,Fundador
+293,1964,,2.0,,,1271000.0,prestamos,El Salvador,,Sector Público,Fundador
+294,2003,,5.0,,,62927243.47,prestamos,Honduras,,Sector Público,Fundador
+295,2002,,2.0,,,32500000.0,prestamos,El Salvador,,Sector Público,Fundador
+296,2009,,1.0,,,1000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+297,2008,,14.0,,,71900000.0,prestamos,Honduras,,Sector Privado,Fundador
+298,1965,,8.0,,,1431090.0,prestamos,Honduras,,Sector Público,Fundador
+299,1981,,9.0,,,29969350.0,prestamos,Honduras,,Sector Público,Fundador
+300,2021,,1.0,,,8000000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+301,1963,,6.0,,,1044848.5700000001,prestamos,Nicaragua,,Sector Privado,Fundador
+302,1969,,7.0,,,11377600.0,prestamos,Honduras,,Sector Público,Fundador
+303,1980,,9.0,,,56237000.0,prestamos,El Salvador,,Sector Público,Fundador
+304,1972,,7.0,,,3365950.0,prestamos,Costa Rica,,Sector Privado,Fundador
+305,2016,,1.0,,,2125000.0,prestamos,El Salvador,,Sector Privado,Fundador
+306,1967,,8.0,,,5547300.0,prestamos,Nicaragua,,Sector Privado,Fundador
+307,1994,,7.0,,,34765000.0,prestamos,Honduras,,Sector Público,Fundador
+308,1976,,7.0,,,2525000.0,prestamos,El Salvador,,Sector Privado,Fundador
+309,1971,,4.0,,,8658000.0,prestamos,Guatemala,,Sector Público,Fundador
+310,1979,,3.0,,,2416000.0,prestamos,El Salvador,,Sector Privado,Fundador
+311,1968,,7.0,,,10752000.0,prestamos,Honduras,,Sector Público,Fundador
+312,2018,,1.0,,,193200000.0,prestamos,Guatemala,,Sector Público,Fundador
+313,1974,,5.0,,,10800000.0,prestamos,Guatemala,,Sector Público,Fundador
+314,2013,,5.0,,,363545473.0,prestamos,Nicaragua,,Sector Público,Fundador
+315,1992,,3.0,,,900000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+316,1995,,3.0,,,8000000.0,prestamos,Honduras,,Sector Público,Fundador
+317,2000,,1.0,,,1500000.0,prestamos,Honduras,,Sector Público,Fundador
+318,2011,,5.0,,,392236000.0,prestamos,Honduras,,Sector Público,Fundador
+319,1973,,4.0,,,12940000.0,prestamos,Honduras,,Sector Público,Fundador
+320,2024,,1.0,,,240000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+321,1977,,4.0,,,7800000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+322,1966,,5.0,,,6040000.0,prestamos,El Salvador,,Sector Público,Fundador
+323,1982,,6.0,,,40294000.0,prestamos,Honduras,,Sector Público,Fundador
+324,2001,,3.0,,,217400000.0,prestamos,El Salvador,,Sector Público,Fundador
+325,1996,,3.0,,,130971000.0,prestamos,Guatemala,,Sector Público,Fundador
+326,2012,,5.0,,,253044054.79,prestamos,Nicaragua,,Sector Público,Fundador
+327,2022,,1.0,,,60000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+328,2015,,2.0,,,46000000.0,prestamos,Honduras,,Sector Privado,Fundador
+329,2017,,1.0,,,61306842.25,prestamos,El Salvador,,Sector Privado,Fundador
+330,2003,,14.0,,,42905100.0,prestamos,Nicaragua,,Sector Privado,Fundador
+331,2014,,3.0,,,14250000.0,prestamos,El Salvador,,Sector Privado,Fundador
+332,2009,,2.0,,,293433870.0,prestamos,El Salvador,,Sector Público,Fundador
+333,2008,,5.0,,,202006000.0,prestamos,Honduras,,Sector Público,Fundador
+334,1965,,6.0,,,3942000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+335,1981,,1.0,,,4400000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+336,2021,,7.0,,,804903013.99,prestamos,Nicaragua,,Sector Público,Fundador
+337,1969,,8.0,,,1015356.0,prestamos,Nicaragua,,Sector Privado,Fundador
+338,1978,,4.0,,,1700000.0,prestamos,Guatemala,,Sector Privado,Fundador
+339,1972,,8.0,,,13976200.0,prestamos,Costa Rica,,Sector Público,Fundador
+340,2016,,4.0,,,383647251.84000003,prestamos,El Salvador,,Sector Público,Fundador
+341,1967,,3.0,,,4291000.0,prestamos,Nicaragua,,Sector Público,Fundador
+342,1994,,12.0,,,19003900.0,prestamos,Nicaragua,,Sector Privado,Fundador
+343,1976,,2.0,,,15300000.0,prestamos,El Salvador,,Sector Público,Fundador
+344,1983,,1.0,,,6900000.0,prestamos,Guatemala,,Sector Público,Fundador
+345,1979,,6.0,,,41850000.0,prestamos,El Salvador,,Sector Público,Fundador
+346,1968,,3.0,,,534714.0,prestamos,Nicaragua,,Sector Privado,Fundador
+347,2020,,1.0,,,1500000.0,prestamos,Guatemala,,Sector Privado,Fundador
+348,1984,,1.0,,,1200000.0,prestamos,Guatemala,,Sector Público,Fundador
+349,2013,,1.0,,,10000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+350,1992,,9.0,,,63977012.0,prestamos,Nicaragua,,Sector Público,Fundador
+351,1995,,4.0,,,7875000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+352,2000,,6.0,,,15100000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+353,2011,,2.0,,,72200000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+354,1973,,7.0,,,1570671.0,prestamos,Nicaragua,,Sector Privado,Fundador
+355,2024,,1.0,,,100000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+356,1977,,8.0,,,20210000.0,prestamos,Nicaragua,,Sector Público,Fundador
+357,2004,,12.0,,,67500000.0,prestamos,El Salvador,,Sector Privado,Fundador
+358,1982,,4.0,,,19700000.0,prestamos,Nicaragua,,Sector Público,Fundador
+359,2007,,8.0,,,120215000.0,prestamos,El Salvador,,Sector Privado,Fundador
+360,2025,,1.0,,,15000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+361,2022,,5.0,,,836000000.0,prestamos,El Salvador,,Sector Público,Fundador
+362,2015,,2.0,,,212300000.0,prestamos,Honduras,,Sector Público,Fundador
+363,2017,,2.0,,,246000000.0,prestamos,El Salvador,,Sector Público,Fundador
+364,2003,,4.0,,,21790000.0,prestamos,Nicaragua,,Sector Público,Fundador
+365,2014,,5.0,,,296887500.0,prestamos,El Salvador,,Sector Público,Fundador
+366,1975,,6.0,,,11110000.0,prestamos,Guatemala,,Sector Privado,Fundador
+367,2008,,12.0,,,107150000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+368,1965,,1.0,,,2000000.0,prestamos,Nicaragua,,Sector Público,Fundador
+369,1981,,6.0,,,43250000.0,prestamos,Nicaragua,,Sector Público,Fundador
+370,2021,,1.0,,,125000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+371,1969,,7.0,,,5720537.0,prestamos,Nicaragua,,Sector Público,Fundador
+372,1978,,8.0,,,48790000.0,prestamos,Guatemala,,Sector Público,Fundador
+373,2010,,9.0,,,35760000.0,prestamos,Costa Rica,,Sector Privado,Fundador
+374,1993,,31.0,,,38556600.0,prestamos,Guatemala,,Sector Privado,Fundador
+375,1994,,9.0,,,75129872.0,prestamos,Nicaragua,,Sector Público,Fundador
+376,1998,,8.0,,,28900000.0,prestamos,El Salvador,,Sector Privado,Fundador
+377,1971,,20.0,,,6223272.0,prestamos,Honduras,,Sector Privado,Fundador
+378,1997,,15.0,,,55147400.0,prestamos,El Salvador,,Sector Privado,Fundador
+379,1968,,1.0,,,4000000.0,prestamos,Nicaragua,,Sector Público,Fundador
+380,2018,,3.0,,,40000000.0,prestamos,Honduras,,Sector Privado,Fundador
+381,1974,,13.0,,,6857000.0,prestamos,Honduras,,Sector Privado,Fundador
+382,2013,,1.0,,,80200000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+383,1995,,4.0,,,15600000.0,prestamos,Nicaragua,,Sector Público,Fundador
+384,2011,,5.0,,,90234985.0,prestamos,Nicaragua,,Sector Público,Fundador
+385,1973,,9.0,,,14255857.0,prestamos,Nicaragua,,Sector Público,Fundador
+386,2004,,3.0,,,155625000.0,prestamos,El Salvador,,Sector Público,Fundador
+387,2007,,7.0,,,351500000.0,prestamos,El Salvador,,Sector Público,Fundador
+388,1996,,14.0,,,58400000.0,prestamos,Honduras,,Sector Privado,Fundador
+389,1987,,1.0,,,1200000.0,prestamos,Guatemala,,Sector Privado,Fundador
+390,2015,,1.0,,,40000000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+391,1964,,2.0,,,390000.0,prestamos,Guatemala,,Sector Privado,Fundador
+392,2002,,9.0,,,104054179.0,prestamos,Guatemala,,Sector Privado,Fundador
+393,1975,,5.0,,,16140000.0,prestamos,Guatemala,,Sector Público,Fundador
+394,2008,,4.0,,,161893879.0,prestamos,Nicaragua,,Sector Público,Fundador
+395,2021,,2.0,,,410000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+396,1980,,3.0,,,8200000.0,prestamos,Guatemala,,Sector Privado,Fundador
+397,2010,,3.0,,,182693958.0,prestamos,Costa Rica,,Sector Público,Fundador
+398,1993,,3.0,,,70800000.0,prestamos,Guatemala,,Sector Público,Fundador
+399,1998,,3.0,,,177771000.0,prestamos,El Salvador,,Sector Público,Fundador
+400,1971,,5.0,,,3475000.0,prestamos,Honduras,,Sector Público,Fundador
+401,1997,,3.0,,,106908000.0,prestamos,El Salvador,,Sector Público,Fundador
+402,2018,,1.0,,,44262590.7,prestamos,Honduras,,Sector Público,Fundador
+403,1974,,11.0,,,16355000.0,prestamos,Honduras,,Sector Público,Fundador
+404,2011,,1.0,,,25000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+405,2019,,1.0,,,45000000.0,prestamos,El Salvador,,Sector Privado,Fundador
+406,2001,,3.0,,,29300000.0,prestamos,Guatemala,,Sector Privado,Fundador
+407,1996,,1.0,,,15910000.0,prestamos,Honduras,,Sector Público,Fundador
+408,1987,,5.0,,,26620000.0,prestamos,Guatemala,,Sector Público,Fundador
+409,2015,,4.0,,,156016547.10000002,prestamos,Nicaragua,,Sector Público,Fundador
+410,1964,,1.0,,,20000.0,prestamos,Guatemala,,Sector Público,Fundador
+411,2002,,2.0,,,40467835.0,prestamos,Guatemala,,Sector Público,Fundador
+412,2009,,4.0,,,2594200.0,prestamos,Guatemala,,Sector Privado,Fundador
+413,2008,,1.0,,,30100000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+414,1980,,8.0,,,33640000.0,prestamos,Guatemala,,Sector Público,Fundador
+415,2023,,3.0,,,1000000000.0,prestamos,Costa Rica,,Sector Público,Fundador
+416,2016,,1.0,,,300000000.0,prestamos,Guatemala,,Sector Público,Fundador
+417,2006,,21.0,,,158210440.0,prestamos,El Salvador,,Sector Privado,Fundador
+418,1983,,3.0,,,7560000.0,prestamos,Honduras,,Sector Público,Fundador
+419,2005,,13.0,,,43850000.0,prestamos,El Salvador,,Sector Privado,Fundador
+420,2020,,4.0,,,111718430.0,prestamos,Honduras,,Sector Privado,Fundador
+421,1984,,2.0,,,14100000.0,prestamos,Honduras,,Sector Público,Fundador
+422,2019,,5.0,,,531162715.48,prestamos,El Salvador,,Sector Público,Fundador
+423,2001,,4.0,,,97651252.0,prestamos,Guatemala,,Sector Público,Fundador
+424,2025,,1.0,,,165000000.0,prestamos,Honduras,,Sector Público,Fundador
+425,2022,,1.0,,,100000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+426,2015,,1.0,,,20000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+427,2017,,2.0,,,37000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+428,2014,,3.0,,,56607000.0,prestamos,Guatemala,,Sector Privado,Fundador
+429,2009,,3.0,,,143121400.0,prestamos,Guatemala,,Sector Público,Fundador
+430,1978,,3.0,,,3250000.0,prestamos,Honduras,,Sector Privado,Fundador
+431,1970,,6.0,,,5478600.0,prestamos,El Salvador,,Sector Privado,Fundador
+432,1993,,13.0,,,11487100.0,prestamos,Honduras,,Sector Privado,Fundador
+433,2006,,3.0,,,275000000.0,prestamos,El Salvador,,Sector Público,Fundador
+434,1971,,8.0,,,2825000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+435,2005,,5.0,,,232528347.75,prestamos,El Salvador,,Sector Público,Fundador
+436,2020,,6.0,,,846779622.95,prestamos,Honduras,,Sector Público,Fundador
+437,1974,,3.0,,,2800000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+438,1966,,14.0,,,4211080.0,prestamos,Guatemala,,Sector Privado,Fundador
+439,2007,,19.0,,,567905000.0,prestamos,Guatemala,,Sector Privado,Fundador
+440,1996,,11.0,,,11737565.0,prestamos,Nicaragua,,Sector Privado,Fundador
+441,2022,,1.0,,,170000000.0,prestamos,Guatemala,,Sector Público,Fundador
+442,2015,,1.0,,,200000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+443,2017,,1.0,,,100000000.0,prestamos,Guatemala,,Sector Público,Fundador
+444,2014,,1.0,,,250000000.0,prestamos,Guatemala,,Sector Público,Fundador
+445,1975,,18.0,,,19215089.0,prestamos,Honduras,,Sector Privado,Fundador
+446,1978,,8.0,,,28080000.0,prestamos,Honduras,,Sector Público,Fundador
+447,1970,,4.0,,,2397000.0,prestamos,El Salvador,,Sector Público,Fundador
+448,1993,,9.0,,,86941000.0,prestamos,Honduras,,Sector Público,Fundador
+449,1962,,2.0,,,190000.0,prestamos,Guatemala,,Sector Privado,Fundador
+450,1971,,10.0,,,11077486.0,prestamos,Nicaragua,,Sector Público,Fundador
+451,1979,,5.0,,,2250000.0,prestamos,Guatemala,,Sector Privado,Fundador
+452,2018,,3.0,,,365114696.0,prestamos,Nicaragua,,Sector Público,Fundador
+453,1974,,12.0,,,22287000.0,prestamos,Nicaragua,,Sector Público,Fundador
+454,1966,,2.0,,,4352000.0,prestamos,Guatemala,,Sector Público,Fundador
+455,2001,,5.0,,,8795064.0,prestamos,Honduras,,Sector Privado,Fundador
+456,2025,,1.0,,,75000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+457,1987,,8.0,,,30478300.0,prestamos,Honduras,,Sector Público,Fundador
+458,1964,,3.0,,,653000.0,prestamos,Honduras,,Sector Privado,Fundador
+459,2002,,3.0,,,15800000.0,prestamos,Honduras,,Sector Privado,Fundador
+460,1975,,10.0,,,26194000.0,prestamos,Honduras,,Sector Público,Fundador
+461,1980,,6.0,,,5642500.0,prestamos,Honduras,,Sector Privado,Fundador
+462,1972,,2.0,,,301360.0,prestamos,El Salvador,,Sector Privado,Fundador
+463,2016,,1.0,,,40000000.0,prestamos,Honduras,,Sector Privado,Fundador
+464,1976,,4.0,,,6050000.0,prestamos,Guatemala,,Sector Privado,Fundador
+465,1983,,3.0,,,13280000.0,prestamos,Nicaragua,,Sector Público,Fundador
+466,1979,,1.0,,,8100000.0,prestamos,Guatemala,,Sector Público,Fundador
+467,2020,,4.0,,,698696935.0,prestamos,Nicaragua,,Sector Público,Fundador
+468,2004,,7.0,,,31125000.0,prestamos,Guatemala,,Sector Privado,Fundador
+469,2001,,5.0,,,37425000.0,prestamos,Honduras,,Sector Público,Fundador
+470,2025,,1.0,,,37187479.0,prestamos,Regional,,Sector Público,Desconocido
+471,2022,,1.0,,,15000000.0,prestamos,Honduras,,Sector Privado,Fundador
+472,1964,,2.0,,,654000.0,prestamos,Honduras,,Sector Público,Fundador
+473,2002,,3.0,,,25912285.0,prestamos,Honduras,,Sector Público,Fundador
+474,2009,,2.0,,,5500000.0,prestamos,Honduras,,Sector Privado,Fundador
+475,1980,,7.0,,,39000000.0,prestamos,Honduras,,Sector Público,Fundador
+476,1972,,4.0,,,6730000.0,prestamos,El Salvador,,Sector Público,Fundador
+477,2016,,2.0,,,62182437.78,prestamos,Honduras,,Sector Público,Fundador
+478,1976,,5.0,,,27120000.0,prestamos,Guatemala,,Sector Público,Fundador
+479,1997,,13.0,,,41337000.0,prestamos,Guatemala,,Sector Privado,Fundador
+480,2018,,3.0,,,141000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+481,2004,,2.0,,,57635000.0,prestamos,Guatemala,,Sector Público,Fundador
+482,2007,,22.0,,,86852100.0,prestamos,Honduras,,Sector Privado,Fundador
+483,2025,,1.0,,,80900000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+484,2022,,2.0,,,470000000.0,prestamos,Honduras,,Sector Público,Fundador
+485,2017,,1.0,,,30472000.0,prestamos,Honduras,,Sector Privado,Fundador
+486,2014,,4.0,,,88700000.0,prestamos,Honduras,,Sector Privado,Fundador
+487,2009,,1.0,,,90000000.0,prestamos,Honduras,,Sector Público,Fundador
+488,1978,,3.0,,,1400000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+489,2010,,9.0,,,6325000.0,prestamos,El Salvador,,Sector Privado,Fundador
+490,2016,,1.0,,,150000000.0,prestamos,México,,Sector Público,Extraregional
+491,1998,,13.0,,,63237300.0,prestamos,Guatemala,,Sector Privado,Fundador
+492,1997,,6.0,,,177159773.0,prestamos,Guatemala,,Sector Público,Fundador
+493,2018,,4.0,,,660000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+494,2019,,1.0,,,60000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+495,2007,,2.0,,,75500000.0,prestamos,Honduras,,Sector Público,Fundador
+496,2022,,1.0,,,200000000.0,prestamos,Nicaragua,,Sector Público,Fundador
+497,2017,,2.0,,,236834740.0,prestamos,Honduras,,Sector Público,Fundador
+498,2014,,2.0,,,122044117.73,prestamos,Honduras,,Sector Público,Fundador
+499,1975,,10.0,,,21890000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+500,1978,,7.0,,,28471000.0,prestamos,Nicaragua,,Sector Público,Fundador
+501,2010,,4.0,,,126540000.0,prestamos,El Salvador,,Sector Público,Fundador
+502,1993,,2.0,,,1500000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+503,1998,,9.0,,,314750000.0,prestamos,Guatemala,,Sector Público,Fundador
+504,2005,,11.0,,,105095000.0,prestamos,Guatemala,,Sector Privado,Fundador
+505,2020,,2.0,,,400000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+506,2019,,1.0,,,285700000.0,prestamos,Guatemala,,Sector Público,Fundador
+507,2001,,8.0,,,19350000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+508,2022,,2.0,,,85000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+509,1964,,6.0,,,1317700.0,prestamos,Nicaragua,,Sector Privado,Fundador
+510,2002,,18.0,,,50043635.74,prestamos,Nicaragua,,Sector Privado,Fundador
+511,1975,,8.0,,,17184000.0,prestamos,Nicaragua,,Sector Público,Fundador
+512,1980,,16.0,,,65285000.0,prestamos,Nicaragua,,Sector Público,Fundador
+513,1970,,7.0,,,2507184.0,prestamos,Guatemala,,Sector Privado,Fundador
+514,1993,,8.0,,,66265800.0,prestamos,Nicaragua,,Sector Público,Fundador
+515,2006,,28.0,,,377049000.0,prestamos,Guatemala,,Sector Privado,Fundador
+516,2005,,3.0,,,558270000.0,prestamos,Guatemala,,Sector Público,Fundador
+517,2018,,2.0,,,154000000.0,prestamos,República Dominicana,,Sector Privado,Regional No Fundador
+518,1966,,7.0,,,2200000.0,prestamos,Honduras,,Sector Privado,Fundador
+519,2007,,18.0,,,199125700.0,prestamos,Nicaragua,,Sector Privado,Fundador
+520,2022,,1.0,,,145000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+521,1964,,3.0,,,10052458.0,prestamos,Nicaragua,,Sector Público,Fundador
+522,2002,,4.0,,,29138311.95,prestamos,Nicaragua,,Sector Público,Fundador
+523,2009,,9.0,,,21300000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+524,1970,,1.0,,,150000.0,prestamos,Guatemala,,Sector Público,Fundador
+525,2016,,6.0,,,379786817.2,prestamos,Nicaragua,,Sector Público,Fundador
+526,1962,,3.0,,,445000.0,prestamos,Honduras,,Sector Privado,Fundador
+527,1979,,6.0,,,10475600.0,prestamos,Honduras,,Sector Privado,Fundador
+528,2020,,1.0,,,30000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+529,1966,,6.0,,,11794500.0,prestamos,Honduras,,Sector Público,Fundador
+530,2007,,5.0,,,84769347.0,prestamos,Nicaragua,,Sector Público,Fundador
+531,2022,,4.0,,,580000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+532,2017,,1.0,,,10000000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+533,2014,,4.0,,,333883194.0,prestamos,Nicaragua,,Sector Público,Fundador
+534,2009,,4.0,,,299987137.88,prestamos,Nicaragua,,Sector Público,Fundador
+535,1972,,8.0,,,5580370.0,prestamos,Guatemala,,Sector Privado,Fundador
+536,2016,,2.0,,,156000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+537,1962,,1.0,,,120000.0,prestamos,Honduras,,Sector Público,Fundador
+538,1979,,8.0,,,39655000.0,prestamos,Honduras,,Sector Público,Fundador
+539,2004,,11.0,,,79846537.0,prestamos,Honduras,,Sector Privado,Fundador
+540,2007,,2.0,,,97033333.33,prestamos,Panamá,,Sector Privado,Regional No Fundador
+541,2017,,4.0,,,468774000.0,prestamos,Nicaragua,,Sector Público,Fundador
+542,2014,,1.0,,,30000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+543,2009,,1.0,,,20000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+544,1972,,2.0,,,9500000.0,prestamos,Guatemala,,Sector Público,Fundador
+545,2016,,1.0,,,100000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+546,1976,,7.0,,,3215000.0,prestamos,Honduras,,Sector Privado,Fundador
+547,1997,,12.0,,,37947000.0,prestamos,Honduras,,Sector Privado,Fundador
+548,2004,,4.0,,,117830000.0,prestamos,Honduras,,Sector Público,Fundador
+549,2007,,1.0,,,19000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+550,2017,,1.0,,,20000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+551,2010,,4.0,,,71415000.0,prestamos,Guatemala,,Sector Privado,Fundador
+552,2016,,1.0,,,100000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+553,1976,,6.0,,,21441200.0,prestamos,Honduras,,Sector Público,Fundador
+554,1997,,1.0,,,4900000.0,prestamos,Honduras,,Sector Público,Fundador
+555,2019,,1.0,,,25000000.0,prestamos,Honduras,,Sector Privado,Fundador
+556,2007,,1.0,,,50000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+557,2017,,2.0,,,170000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+558,2010,,1.0,,,265000000.0,prestamos,Guatemala,,Sector Público,Fundador
+559,1998,,23.0,,,147449550.0,prestamos,Honduras,,Sector Privado,Fundador
+560,2005,,12.0,,,79705800.0,prestamos,Honduras,,Sector Privado,Fundador
+561,2019,,2.0,,,143586952.0,prestamos,Honduras,,Sector Público,Fundador
+562,2017,,1.0,,,249600000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+563,2023,,1.0,,,15000000.0,prestamos,Guatemala,,Sector Privado,Fundador
+564,1998,,2.0,,,45500000.0,prestamos,Honduras,,Sector Público,Fundador
+565,2005,,9.0,,,125272463.49000001,prestamos,Honduras,,Sector Público,Fundador
+566,1966,,5.0,,,6725000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+567,1970,,19.0,,,11407500.0,prestamos,Honduras,,Sector Privado,Fundador
+568,2006,,14.0,,,113327000.0,prestamos,Honduras,,Sector Privado,Fundador
+569,1979,,6.0,,,11050000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+570,1966,,3.0,,,2722240.0,prestamos,Nicaragua,,Sector Público,Fundador
+571,1970,,5.0,,,8114500.0,prestamos,Honduras,,Sector Público,Fundador
+572,2006,,2.0,,,125300000.05000001,prestamos,Honduras,,Sector Público,Fundador
+573,1979,,2.0,,,2750000.0,prestamos,Nicaragua,,Sector Público,Fundador
+574,2004,,17.0,,,24482000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+575,1972,,13.0,,,3962000.0,prestamos,Honduras,,Sector Privado,Fundador
+576,1962,,1.0,,,937200.0,prestamos,Nicaragua,,Sector Privado,Fundador
+577,1997,,3.0,,,7500000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+578,2004,,3.0,,,11025000.0,prestamos,Nicaragua,,Sector Público,Fundador
+579,1972,,8.0,,,2680300.0,prestamos,Honduras,,Sector Público,Fundador
+580,1976,,1.0,,,980000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+581,2005,,16.0,,,60775872.66,prestamos,Nicaragua,,Sector Privado,Fundador
+582,2019,,2.0,,,70800000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+583,2010,,7.0,,,118182669.0,prestamos,Honduras,,Sector Privado,Fundador
+584,1976,,5.0,,,21360000.0,prestamos,Nicaragua,,Sector Público,Fundador
+585,2005,,6.0,,,49632000.0,prestamos,Nicaragua,,Sector Público,Fundador
+586,2019,,2.0,,,585344540.0,prestamos,Nicaragua,,Sector Público,Fundador
+587,2010,,3.0,,,356188510.0,prestamos,Honduras,,Sector Público,Fundador
+588,1998,,7.0,,,32711300.0,prestamos,Nicaragua,,Sector Privado,Fundador
+589,2005,,1.0,,,20000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+590,2019,,1.0,,,50000000.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+591,2023,,1.0,,,20000000.0,prestamos,Honduras,,Sector Privado,Fundador
+592,2006,,22.0,,,103330434.0,prestamos,Nicaragua,,Sector Privado,Fundador
+593,2019,,2.0,,,134000000.0,prestamos,Panamá,,Sector Público,Regional No Fundador
+594,2023,,3.0,,,766988111.14,prestamos,Honduras,,Sector Público,Fundador
+595,2006,,3.0,,,196218000.0,prestamos,Nicaragua,,Sector Público,Fundador
+596,1970,,6.0,,,842236.0,prestamos,Nicaragua,,Sector Privado,Fundador
+597,1970,,6.0,,,9534000.0,prestamos,Nicaragua,,Sector Público,Fundador
+598,1972,,8.0,,,3174914.0,prestamos,Nicaragua,,Sector Privado,Fundador
+599,1972,,5.0,,,7834300.0,prestamos,Nicaragua,,Sector Público,Fundador
+600,2010,,3.0,,,30400000.0,prestamos,Nicaragua,,Sector Privado,Fundador
+601,2010,,2.0,,,117826951.0,prestamos,Nicaragua,,Sector Público,Fundador
+602,2010,,2.0,,,12790915.0,prestamos,Panamá,,Sector Privado,Regional No Fundador
+603,2010,,2.0,,,150000000.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador
+604,2023,,3.0,,,908226411.0,prestamos,República Dominicana,,Sector Público,Regional No Fundador

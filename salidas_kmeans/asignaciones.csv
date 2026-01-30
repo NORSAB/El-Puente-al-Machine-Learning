@@ -1,0 +1,103 @@
+﻿,Año,Socio,Monto Total USD Aprobados,Cantidad Total Aprobados,cluster,cluster_desc,cluster_hdbscan,is_noise,cluster_name
+0,1961,Fundadores,275000.0,1,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+1,1962,Fundadores,3238200.0,11,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+2,1963,Fundadores,11104848.57,35,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+3,1964,Fundadores,17096093.0,30,3,Monto muy bajo / cant. muy baja,0,False,Cluster 0
+4,1965,Fundadores,20638447.0,45,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+5,1966,Fundadores,46481720.0,53,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+6,1967,Fundadores,26600880.0,33,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+7,1968,Fundadores,36724214.0,39,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+8,1969,Fundadores,52652523.0,68,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+9,1970,Fundadores,45862120.0,60,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+10,1971,Fundadores,50164990.14,78,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+11,1972,Fundadores,57105394.0,65,0,Bajo monto / cant. media-alta,0,False,Cluster 0
+12,1973,Fundadores,104429948.0,72,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+13,1974,Fundadores,126542100.0,90,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+14,1975,Fundadores,165067089.0,77,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+15,1976,Fundadores,139473200.0,51,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+16,1977,Fundadores,97788000.0,40,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+17,1978,Fundadores,191966000.0,58,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+18,1979,Fundadores,163656600.0,50,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+19,1980,Fundadores,242215788.0,65,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+20,1981,Fundadores,140512650.0,42,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+21,1982,Fundadores,133394000.0,23,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+22,1983,Fundadores,44942200.0,11,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+23,1984,Fundadores,24550000.0,5,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+24,1985,Fundadores,25730000.0,6,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+25,1986,Fundadores,33075000.0,9,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+26,1987,Fundadores,126298300.0,28,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+27,1988,Fundadores,77340000.0,19,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+28,1989,Fundadores,109749000.0,20,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+29,1990,Fundadores,198765600.0,27,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+30,1991,Fundadores,170900000.0,21,3,Monto muy bajo / cant. muy baja,1,False,Cluster 1
+31,1992,Fundadores,272279924.0,62,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+32,1993,Fundadores,402409500.0,107,2,Monto alto / cant. muy alta,4,False,Cluster 4
+33,1994,Fundadores,566354451.0,143,2,Monto alto / cant. muy alta,4,False,Cluster 4
+34,1995,Fundadores,393003864.0,104,2,Monto alto / cant. muy alta,4,False,Cluster 4
+35,1996,Fundadores,581877854.0,106,2,Monto alto / cant. muy alta,4,False,Cluster 4
+36,1997,Fundadores,549606673.0,69,0,Bajo monto / cant. media-alta,4,False,Cluster 4
+37,1998,Fundadores,951803500.0,92,2,Monto alto / cant. muy alta,4,False,Cluster 4
+38,1999,Fundadores,336476815.0,40,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+39,2000,Fundadores,327582456.0,32,0,Bajo monto / cant. media-alta,1,False,Cluster 1
+40,2001,Fundadores,584575116.0,49,0,Bajo monto / cant. media-alta,4,False,Cluster 4
+41,2002,Fundadores,727160246.69,70,0,Bajo monto / cant. media-alta,4,False,Cluster 4
+42,2003,Fundadores,703311558.9300001,83,2,Monto alto / cant. muy alta,4,False,Cluster 4
+43,2004,Fundadores,726858537.0,71,0,Bajo monto / cant. media-alta,4,False,Cluster 4
+44,2005,Extraregionales,71120000.0,2,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+45,2005,Fundadores,1721189292.0800002,88,2,Monto alto / cant. muy alta,4,False,Cluster 4
+46,2005,Regional No Fundadores,20000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+47,2006,Fundadores,2097300274.05,121,2,Monto alto / cant. muy alta,4,False,Cluster 4
+48,2007,Extraregionales,186948000.0,2,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+49,2007,Fundadores,2136067147.0,106,2,Monto alto / cant. muy alta,4,False,Cluster 4
+50,2007,Regional No Fundadores,166033333.32999998,4,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+51,2008,Extraregionales,5000000.0,1,3,Monto muy bajo / cant. muy baja,-1,True,Ruido
+52,2008,Fundadores,1418099879.0,77,2,Monto alto / cant. muy alta,4,False,Cluster 4
+53,2008,Regional No Fundadores,30100000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+54,2009,Fundadores,1233374810.95,37,1,Monto alto / cant. media,5,False,Cluster 5
+55,2009,Regional No Fundadores,21905800.0,2,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+56,2010,Extraregionales,35321000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+57,2010,Fundadores,1310332088.0,45,1,Monto alto / cant. media,5,False,Cluster 5
+58,2010,Regional No Fundadores,173458325.0,6,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+59,2011,Extraregionales,50000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+60,2011,Fundadores,1554558158.8,34,1,Monto alto / cant. media,5,False,Cluster 5
+61,2011,Regional No Fundadores,25000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+62,2012,Fundadores,1564232673.33,31,1,Monto alto / cant. media,5,False,Cluster 5
+63,2013,Fundadores,1294081773.0,25,1,Monto alto / cant. media,5,False,Cluster 5
+64,2013,Regional No Fundadores,90200000.0,2,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+65,2014,Extraregionales,50000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+66,2014,Fundadores,1491371811.73,30,1,Monto alto / cant. media,5,False,Cluster 5
+67,2014,Regional No Fundadores,60000000.0,2,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+68,2015,Extraregionales,186000000.0,2,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+69,2015,Fundadores,1450426325.97,28,1,Monto alto / cant. media,5,False,Cluster 5
+70,2015,Regional No Fundadores,220000000.0,2,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+71,2016,Extraregionales,240000000.0,3,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+72,2016,Fundadores,1509583919.8200002,19,1,Monto alto / cant. media,5,False,Cluster 5
+73,2016,Regional No Fundadores,356000000.0,4,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+74,2017,Extraregionales,80000000.0,2,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+75,2017,Fundadores,1406147582.25,18,1,Monto alto / cant. media,5,False,Cluster 5
+76,2017,Regional No Fundadores,439600000.0,4,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+77,2018,Extraregionales,32000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+78,2018,Fundadores,1456361353.7,14,1,Monto alto / cant. media,5,False,Cluster 5
+79,2018,Regional No Fundadores,955000000.0,9,1,Monto alto / cant. media,5,False,Cluster 5
+80,2019,Extraregionales,67000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+81,2019,Fundadores,2386649207.48,17,4,Monto muy alto / cant. media,5,False,Cluster 5
+82,2019,Regional No Fundadores,184000000.0,3,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+83,2020,Extraregionales,50000000.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
+84,2020,Fundadores,2979054987.95,22,4,Monto muy alto / cant. media,5,False,Cluster 5
+85,2020,Regional No Fundadores,430000000.0,3,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+86,2021,Extraregionales,150000000.0,3,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+87,2021,Fundadores,3004869379.17,22,4,Monto muy alto / cant. media,5,False,Cluster 5
+88,2021,Regional No Fundadores,535000000.0,3,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+89,2022,Extraregionales,415000000.0,6,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+90,2022,Fundadores,3041000000.0,15,4,Monto muy alto / cant. media,5,False,Cluster 5
+91,2022,Regional No Fundadores,834000000.0,8,1,Monto alto / cant. media,5,False,Cluster 5
+92,2023,Extraregionales,875000000.0,4,1,Monto alto / cant. media,3,False,Cluster 3
+93,2023,Fundadores,1801988111.1399999,8,1,Monto alto / cant. media,5,False,Cluster 5
+94,2023,Regional No Fundadores,910726411.0,4,1,Monto alto / cant. media,3,False,Cluster 3
+95,2024,Extraregionales,230000000.0,1,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+96,2024,Fundadores,1659200000.0,9,1,Monto alto / cant. media,5,False,Cluster 5
+97,2024,Regional No Fundadores,340000000.0,2,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+98,2025,Extraregionales,175000000.0,2,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+99,2025,Fundadores,1940000000.0,10,1,Monto alto / cant. media,5,False,Cluster 5
+100,2025,Regional No Fundadores,175900000.0,3,3,Monto muy bajo / cant. muy baja,3,False,Cluster 3
+101,2025,Regionales,37187479.0,1,3,Monto muy bajo / cant. muy baja,2,False,Cluster 2
