@@ -12,169 +12,128 @@ tags: machine-learning, databricks, llm, generative-ai, rag
 
 ---
 
-Hace unos meses decidí dar un paso importante. Tras certificarme como Analista de Datos en Databricks, me di cuenta de que el verdadero reto no está en crear dashboards bonitos, sino en entender qué pasa detrás cuando intentamos que las máquinas piensen (o al menos lo parezca). Así nace esta serie: **El Puente al Machine Learning**, un espacio donde quiero explicarte los conceptos sin rodeos matemáticos incomprensibles, pero sin caer en la trampa de usar librerías como LangChain como si fueran magia negra.
+Hace poco tomé una decisión importante en mi carrera. Después de certificarme como Data Analyst en Databricks, entendí que el verdadero desafío no consiste en armar tableros visuales atractivos. El reto de fondo es entender qué pasa en las capas internas de los modelos cuando intentamos simular razonamiento. Así empieza esta serie, a la que llamaremos Ruta GenAI Engineer. La idea es explicar conceptos complejos de forma directa, sin fórmulas pesadas ni la magia negra de librerías tipo LangChain.
 
-Hoy empezamos con el **Módulo 0**: lo que necesitas saber antes de escribir tu primera línea de código de IA Generativa y orquestar soluciones reales en la nube.
+Este primer artículo sirve como el Módulo 0. Repasaremos lo básico antes de escribir la primera línea de código para conectar soluciones de inteligencia artificial en la nube.
 
-* * *
+---
 
-## ¿Qué es un Large Language Model (LLM)?
+## Qué es un modelo de lenguaje (LLM)
 
-Antes de tirar código, necesitas entender qué es un LLM y por qué ha cambiado las reglas del juego.
+Para trabajar con estas tecnologías, lo primero es entender qué hace un LLM bajo el capó. 
 
-Un **Large Language Model (LLM)** es una red neuronal gigante entrenada con enormes volúmenes de texto para adivinar la siguiente palabra en una secuencia. Suena muy básico, pero al escalar este principio a miles de millones de palabras, el modelo adquiere capacidades asombrosas: resume textos, traduce idiomas, programa código, analiza sentimientos y razona sobre problemas complejos.
+Un modelo de lenguaje es una red neuronal de gran escala. Fue entrenada con enormes volúmenes de texto para predecir cuál es la palabra más probable que debería seguir a una secuencia dada. Parece una tarea sencilla. Sin embargo, al escalar este método a miles de millones de parámetros, el modelo muestra habilidades que simulan razonamiento: traduce, resume, escribe código y clasifica información de manera sumamente precisa.
 
-El motor de todo esto es la arquitectura **Transformer**, descrita en el histórico paper *"Attention Is All You Need"* (2017). A diferencia de las antiguas redes recurrentes (RNN) que leían las oraciones palabra por palabra (lo que causaba que olvidaran el inicio del párrafo al llegar al final), el Transformer procesa toda la frase a la vez. Lo logra con el mecanismo de **Auto-Atención (Self-Attention)**, que calcula qué palabras de una oración se relacionan más con otras para definir el contexto.
+La pieza clave detrás de esto es la arquitectura Transformer. Se presentó en 2017 con el artículo "Attention Is All You Need". Los modelos anteriores procesaban los textos palabra por palabra, lo que hacía que olvidaran las primeras frases al llegar al final de un texto largo. El Transformer solucionó esto al procesar la secuencia entera al mismo tiempo. Utiliza un mecanismo llamado auto-atención para calcular la relación de peso y contexto entre todas las palabras de una oración.
 
-<iframe src="https://norsab.github.io/Generative-AI-Engineer/Blog/figuras/figura2.html?v=9" width="100%" height="420" style="border:none;border-radius:12px;background:#0B0F19;overflow:hidden"></iframe>
+#### Contexto A: Financiero ("El banco estaba lleno de dinero")
+El término **"banco"** recibe su mayor peso de atención (95%) de **"dinero"**, fijando su significado en una entidad bancaria.
 
-* * *
+![Auto-Atención Contexto Financiero](https://raw.githubusercontent.com/NORSAB/Generative-AI-Engineer/main/Blog/figuras/figura_2_atencion_a.png)
 
-## El Ecosistema Actual de Modelos
+#### Contexto B: Mobiliario ("El banco estaba pintado de verde")
+El término **"banco"** recibe su mayor peso de atención de **"verde"** y **"pintado"**, definiendo su significado en un asiento.
 
-No todos los LLMs son iguales. Para la certificación de Databricks, debes distinguir claramente entre las siguientes categorías:
+![Auto-Atención Contexto Mobiliario](https://raw.githubusercontent.com/NORSAB/Generative-AI-Engineer/main/Blog/figuras/figura_2_atencion_b.png)
 
-*   **Foundation Models (Modelos Base)**: Son los gigantes pre-entrenados con miles de millones de palabras públicas procedentes de internet, libros y código. Son generalistas capaces de realizar múltiples tareas. Ejemplos de esto son GPT-4, Claude, Gemini, LLaMA 3 y **DBRX** (el modelo abierto de Databricks).
-    
-*   **Fine-Tuned Models (Modelos Ajustados)**: Parten de un modelo base y reciben entrenamiento extra con un conjunto de datos muy específico. Por ejemplo, un modelo especializado en transcribir recetas médicas o generar código SQL. Mejora el rendimiento en una tarea, pero pierde habilidad en la conversación general.
-    
-*   **Modelos Abiertos vs. Propietarios**: Los abiertos (LLaMA 3, Mixtral, DBRX) te dan el control del código y los pesos, permitiéndote desplegarlos en tu propia infraestructura de nube. Los propietarios (GPT-4, Claude) se consumen como servicio pagado (API) y no tienes acceso a sus componentes internos.
-    
+---
 
-### DBRX: La joya de Databricks
+## Cómo clasificamos los modelos hoy
 
-Para el examen, quédate con este nombre: **DBRX**. Es el modelo abierto desarrollado por Databricks en 2024. Su arquitectura es del tipo **Mixture of Experts (MoE)**. En lugar de activar todos sus parámetros en cada palabra que genera, solo activa un subconjunto de "expertos" especializados. Esto le permite competir en calidad con modelos como GPT-3.5 a una fracción del costo computacional de cómputo en la nube.
+Para la certificación de Databricks, es necesario diferenciar los tipos de modelos disponibles en el mercado.
 
-* * *
+* **Modelos base (Foundation Models)**: Son los gigantes preentrenados con terabytes de información pública de internet. Son generalistas y pueden resolver múltiples tareas de forma aceptable. Aquí entran GPT-4, Claude, LLaMA y DBRX, que es la alternativa abierta de Databricks.
+* **Modelos ajustados (Fine-Tuned)**: Parten de un modelo base pero reciben un entrenamiento adicional con un conjunto de datos específico. Sirven para especializar al modelo en un dominio concreto, como redactar informes médicos o generar código SQL. Suelen perder capacidad para mantener conversaciones generales a cambio de mayor precisión en su tarea.
+* **Modelos abiertos frente a propietarios**: Los modelos abiertos como LLaMA o DBRX te permiten descargar sus pesos y ejecutarlos en tu propia infraestructura de nube. Los propietarios, como los de OpenAI o Anthropic, se consumen exclusivamente a través de llamadas de pago a su API y sus entrañas son secretas.
 
-## Tokens, Ventana de Contexto y Embeddings
+### DBRX y los modelos de expertos
+Un detalle importante para el examen es comprender la estructura de DBRX. Es el modelo de Databricks lanzado en 2024 y utiliza una arquitectura llamada mezcla de expertos (MoE). En lugar de activar todos sus parámetros para generar cada palabra, el sistema activa únicamente los subconjuntos especializados para esa tarea. Esto permite obtener una precisión equivalente a modelos más grandes pero reduciendo drásticamente el costo de procesamiento en la nube.
 
-Tres conceptos indispensables para entender el flujo técnico del examen.
+---
 
-*   **Tokens**: Un LLM no lee palabras completas, las corta en trozos llamados tokens. Un token puede ser una palabra entera ("Databricks"), una parte de ella ("Data" y "bricks") o un espacio. En promedio, **1 token equivale a unas 0.75 palabras** en inglés. La facturación de las APIs se calcula en base a tokens consumidos.
-    
-*   **Ventana de Contexto (Context Window)**: Es el límite de memoria del modelo en una sola llamada de entrada y salida. DBRX tiene una ventana de 32K tokens, mientras que otros modelos alcanzan 128K o más. Superar este límite significa que el modelo olvidará la información más vieja.
-    
-*   **Embeddings**: Son representaciones matemáticas del significado de las palabras. Cada palabra o frase se convierte en una lista de números (un vector) en un espacio de muchas dimensiones. Lo valioso de esto es que palabras con significados similares (ejemplo: "médico" y "doctor") quedan ubicadas muy cerca unas de otras en este mapa matemático, facilitando las búsquedas semánticas.
-    
+## Tokens, ventana de contexto y embeddings
 
-<iframe src="https://norsab.github.io/Generative-AI-Engineer/Blog/figuras/figura1.html?v=10" width="100%" height="750" style="border:none;border-radius:12px;background:#0B0F19;overflow:hidden"></iframe>
+Estos tres conceptos son fundamentales para el diseño de infraestructura.
 
-* * *
+* **Tokens**: Los modelos no procesan palabras completas. Dividen el texto en fragmentos llamados tokens. Un token puede ser una palabra común, una sílaba o un carácter de puntuación. Para calcular costos y límites, suelo considerar que 100 tokens representan unas 75 palabras en inglés. Las tarifas de los proveedores de API se cobran con base en estas unidades.
+* **Ventana de contexto**: Representa el límite de memoria del modelo en una sola interacción. DBRX cuenta con una ventana de 32,000 tokens. Si le envías un texto que supere su ventana, el modelo empezará a olvidar los fragmentos más antiguos del historial.
+* **Embeddings**: Son traducciones matemáticas del significado de las palabras. Cada fragmento de texto se convierte en un vector, una lista de números en un espacio de muchas dimensiones. Lo interesante es que los términos con significados parecidos quedan ubicados en zonas cercanas dentro de este espacio matemático. Esto es lo que permite hacer búsquedas semánticas eficaces sin depender de palabras clave exactas.
 
-## Casos de Uso Empresariales de GenAI
+![De Texto a Vectores: Tokenización y Embeddings](https://raw.githubusercontent.com/NORSAB/Generative-AI-Engineer/main/Blog/figuras/figura_1_tokenizacion.png)
 
-En el mundo corporativo, la IA generativa va mucho más allá de un chat simple. Los ingenieros implementamos soluciones integradas:
+---
 
-1.  **Asistentes de Conocimiento Interno**: Permiten a los empleados realizar consultas sobre manuales, políticas y wikis de la empresa en lenguaje natural, recuperando la respuesta correcta al instante.
-    
-2.  **Generación de Código y SQL**: Traducen preguntas de negocio a consultas de bases de datos. Un ejemplo de esto en Databricks es **AI/BI Genie**, que permite a los usuarios hacer analítica de datos sin saber programar SQL.
-    
-3.  **Extracción y Clasificación de Documentos**: Automatizan la lectura de miles de facturas o contratos para extraer campos clave (montos, fechas) o categorizarlos.
-    
-4.  **Agentes Autónomos**: Programas que no solo conversan, sino que ejecutan acciones como enviar un correo, agendar una reunión o actualizar un registro llamando a APIs externas.
-    
+## Aplicaciones de GenAI en las empresas
 
-* * *
+En entornos corporativos no nos limitamos a instalar un chat sencillo. Integramos los modelos en flujos de trabajo más complejos:
 
-## Limitaciones que Debes Conocer
+1. Buscadores de información interna. Permiten consultar políticas, manuales y reglamentos de la empresa haciendo preguntas en lenguaje natural y extrayendo las fuentes exactas.
+2. Traductores de lenguaje natural a SQL. Habilitan la consulta de bases de datos para usuarios sin conocimientos técnicos. En Databricks, esta funcionalidad se implementa con AI/BI Genie.
+3. Extracción estructurada de documentos. Automatizan el procesamiento de facturas o contratos para extraer montos, fechas y cláusulas específicas directamente a bases de datos.
+4. Agentes de ejecución. Programas que además de responder preguntas pueden interactuar con sistemas externos, como programar tareas, enviar notificaciones o actualizar registros mediante APIs.
 
-No entender los límites de la IA genera aplicaciones inestables en producción. Debes dominar estos fallos típicos:
+---
 
-*   **Alucinaciones**: El modelo genera datos erróneos pero redactados con total seguridad. Ocurre porque el modelo es probabilístico: predice la palabra más coherente sintácticamente, no la verdad factual.
-    
-*   **Sesgo (Bias)**: Refleja los prejuicios o disparidades presentes en los textos de internet con los que fue entrenado.
-    
-*   **Límites de Contexto**: Aunque metas documentos gigantescos en el prompt, los modelos sufren del efecto **Lost in the Middle** (se pierden en el medio). Recuerdan bien el inicio y el final de las instrucciones, pero ignoran la parte central.
-    
-*   **Falta de Razonamiento Real**: Los modelos predicen basándose en estadísticas, no comprenden ni razonan a nivel humano. Falla en matemáticas estrictas o datos fuera de su fecha de entrenamiento.
-    
+## Límites técnicos y fallos comunes
 
-* * *
+Ignorar las limitaciones de los modelos suele resultar en aplicaciones inestables. Estos son los problemas que debes vigilar:
 
-## Mosaic AI: El Ecosistema GenAI de Databricks
+* **Alucinaciones**: El modelo responde con datos falsos pero redactados con total seguridad. Esto pasa porque el sistema es probabilístico y prioriza la coherencia de la redacción sobre la precisión histórica o fáctica.
+* **Sesgo**: Los modelos tienden a reflejar las tendencias o prejuicios que venían en los textos de internet con los que se entrenaron.
+* **Efecto "Lost in the Middle"**: Aunque un modelo de soporte soporte ventanas de contexto muy amplias, tiende a ignorar la información ubicada en la parte media de las instrucciones. Recuerda mejor lo que está al principio y al final del prompt.
+* **Ausencia de razonamiento lógico real**: Los modelos calculan probabilidades. No entienden matemáticas complejas ni lógica abstracta por sí mismos, por lo que suelen fallar en operaciones exactas si no se les guía adecuadamente.
 
-Databricks engloba todo su desarrollo de IA generativa bajo la marca **Mosaic AI**. Estos son los servicios que integran la plataforma y que debes dominar para la certificación:
+---
 
-*   **Foundation Model APIs**: Permite consultar modelos abiertos (como DBRX, LLaMA) o propietarios externos (GPT-4, Claude) usando una sola API unificada. Esto facilita cambiar de modelo cambiando un parámetro en tu código.
-    
-*   **Model Serving**: Aloja tus modelos en producción mediante endpoints automáticos (serverless) con auto-escalado y control de costos.
-    
-*   **Vector Search**: Base de datos vectorial integrada directamente en Unity Catalog que se sincroniza automáticamente con tus tablas de Delta Lake.
-    
-*   **Mosaic AI Agent Framework**: Kit de desarrollo para programar, evaluar y desplegar agentes compuestos que usan herramientas y bases de datos.
-    
-*   **MLflow para GenAI**: Extensión del popular orquestador MLflow para registrar prompts, comparar respuestas, habilitar auditorías y evaluar modelos con la metodología LLM-as-a-Judge.
-    
+## El ecosistema de Mosaic AI en Databricks
 
-* * *
+Databricks organiza sus servicios de inteligencia artificial bajo el nombre de Mosaic AI. En la certificación necesitarás dominar estas herramientas:
 
-## Pipeline Típico de una Aplicación GenAI
+* **Foundation Model APIs**: Ofrece un acceso unificado tanto a modelos abiertos como a modelos propietarios a través de una API única. Esto facilita cambiar de proveedor modificando pocas líneas de código.
+* **Model Serving**: Aloja tus modelos personalizados en servidores sin infraestructura gestionable (serverless), con autoescalado y control de costos.
+* **Vector Search**: Una base de datos de vectores integrada con Unity Catalog que se sincroniza sola con las tablas de tu Delta Lake.
+* **Mosaic AI Agent Framework**: Un conjunto de desarrollo pensado para programar, evaluar y desplegar agentes que usen bases de datos y herramientas de terceros.
+* **MLflow con soporte GenAI**: Extensión para registrar las versiones de los prompts, comparar respuestas y evaluar modelos usando metodologías automáticas como el arbitraje de LLMs (LLM-as-a-Judge).
 
-Para estructurar una aplicación que no alucine y que conozca los datos internos de tu empresa, usamos la arquitectura **RAG (Retrieval-Augmented Generation)**. A continuación, puedes ver cómo se orquesta este flujo paso a paso:
+---
 
-<iframe src="https://norsab.github.io/Generative-AI-Engineer/Blog/figuras/figura3.html?v=11" width="100%" height="230" style="border:none;border-radius:12px;background:#0B0F19;overflow:hidden"></iframe>
+## Arquitectura típica de una aplicación: RAG
 
-### El Flujo de Datos en RAG Paso a Paso:
+Para evitar alucinaciones y darle acceso a los datos privados de la compañía, implementamos la arquitectura de Generación Aumentada por Recuperación (RAG). El proceso sigue este flujo:
 
-1.  **Pregunta del Usuario (Query):** Escribes tu duda en lenguaje natural (ej. *"¿Cuál es la política de viáticos?"*). Esta pregunta se vectoriza al vuelo usando un modelo de embeddings.
-    
-2.  **Búsqueda Vectorial (Vector Search):** El vector de la pregunta se cruza con los índices en la base de datos de vectores (gobernada por **Unity Catalog** en Databricks) para traer los fragmentos de texto más parecidos semánticamente.
-    
-3.  **Prompt Enriquecido (Contexto):** Esos fragmentos recuperados se inyectan directamente dentro del prompt original como contexto extra, dándole al modelo información real e interna.
-    
-4.  **Generación / Inferencia LLM:** El LLM lee el prompt con su contexto y genera la respuesta mediante **Mosaic AI Serving**. Al basarse estrictamente en el texto provisto, se evitan las alucinaciones.
-    
+![Arquitectura RAG (Retrieval-Augmented Generation)](https://raw.githubusercontent.com/NORSAB/Generative-AI-Engineer/main/Blog/figuras/figura_3_rag.png)
 
-### La Evolución de RAG: Classic, Graph y Agentic
+### El flujo de RAG paso a paso:
+1. Petición del usuario. Haces una consulta en lenguaje natural. Esta pregunta se convierte en un vector matemático al vuelo.
+2. Recuperación. El vector de la consulta busca en la base de datos de vectores (gobernada por Unity Catalog) para extraer los fragmentos de texto más relevantes.
+3. Enriquecimiento del prompt. Esos fragmentos se inyectan como contexto dentro del prompt original.
+4. Generación. El modelo lee el prompt enriquecido y redacta la respuesta basándose solo en el contexto provisto, reduciendo las alucinaciones.
 
-No todos los flujos RAG se diseñan igual. A medida que las aplicaciones empresariales de IA se vuelven más robustas, las organizaciones evolucionan a través de tres niveles de recuperación de datos:
+### Niveles de RAG: clásico, grafos y agentes
 
-*   **Classic RAG (Búsqueda Secuencial):** Es el enfoque básico e inicial. La consulta del usuario se vectoriza, se realiza una búsqueda de similitud en la base de datos de vectores (**Mosaic AI Vector Search**) y se le entregan los fragmentos de texto al LLM en un único paso lineal.
-    
-*   **Graph RAG (Búsqueda en Grafos):** Sirve para conectar ideas sueltas en distintas fuentes. En lugar de buscar trozos de texto aislados, se extraen entidades y relaciones semánticas y se organizan en un Grafo de Conocimiento (Knowledge Graph) estructurado sobre tablas de Delta Lake.
-    
-*   **Agentic RAG (Agente Autónomo):** Es el nivel más avanzado y flexible. Le da el control a un agente de razonamiento diseñado con **Mosaic AI Agent Framework**. El agente evalúa la consulta, decide qué herramientas usar (Vector DB, APIs externas, búsquedas web) y valida las respuestas de forma autónoma en un ciclo de **Auto-Evaluación (Self-Correction Loop)** antes de entregarlas.
-    
+La complejidad del flujo varía según las necesidades del negocio:
 
-Explora esta comparativa visual de los tres flujos de trabajo:
+* **RAG clásico**: Es lineal y secuencial. El vector de búsqueda recupera los documentos y el modelo genera la respuesta en un solo paso.
+* **Graph RAG**: Utiliza grafos de conocimiento guardados en tablas Delta para conectar entidades y relaciones complejas entre distintas fuentes de datos.
+* **Agentic RAG**: Es el más flexible. Utiliza un agente que evalúa la pregunta y decide de manera autónoma qué herramientas externas o bases de datos consultar, aplicando bucles de autocorrección antes de dar la respuesta final.
 
-<iframe src="https://norsab.github.io/Generative-AI-Engineer/Blog/figuras/figura4.html?v=13" width="100%" height="870" style="border:none;border-radius:12px;background:#0B0F19;overflow:hidden"></iframe>
+![Evolución de Arquitecturas RAG](https://raw.githubusercontent.com/NORSAB/Generative-AI-Engineer/main/Blog/figuras/figura_4_rag_evolucion.png)
 
-* * *
+---
 
-## Databricks vs. El Resto: Posicionamiento en el Mercado
+## Por qué Databricks frente a otras nubes
 
-¿Por qué usar Databricks en lugar de conectar OpenAI directamente? El examen evalúa decisiones de diseño basadas en estas ventajas:
+El examen evalúa tus decisiones de arquitectura basadas en las ventajas de la plataforma:
 
-*   **Integración del Dato (Data-Centric AI)**: En otras plataformas debes contratar una base de datos vectorial externa, un orquestador y un servicio de hosting. En Databricks, tus datos gobernados en Delta Lake se conectan a tu base de datos vectorial (Vector Search) y a tus APIs de modelos en el mismo workspace.
-    
-*   **Gobernanza Unificada con Unity Catalog**: Puedes auditar quién consulta una tabla, qué modelo consume esa tabla y qué empleado llama al endpoint del modelo, todo bajo un único sistema de seguridad empresarial.
-    
-*   **Estándares Abiertos**: Databricks promueve el uso de tecnologías de código abierto (Delta Lake, MLflow, Spark), evitando el secuestro de proveedor (vendor lock-in).
-    
+* **Enfoque centrado en los datos**: No necesitas bases de datos de vectores externas ni servidores de hosting separados. Todo se integra en el mismo workspace de Databricks conectado a tus tablas Delta.
+* **Seguridad centralizada con Unity Catalog**: Puedes auditar desde qué tabla se generó un embedding hasta qué usuario llamó al modelo, todo bajo las mismas políticas de seguridad.
+* **Flexibilidad de código abierto**: Al basarse en estándares como MLflow y Delta Lake, evitas depender de un único proveedor de nube.
 
-* * *
+---
 
-## Tips de Examen: Conceptos Clave del Módulo 0
+## Notas clave para el examen
 
-Para asegurar el éxito en la certificación, ten claros estos puntos de diseño y arquitectura en el examen:
-
-*   **DBRX y Mixture of Experts (MoE):** Es un modelo abierto y desagregado. En lugar de procesar cada token con todos sus parámetros, DBRX activa únicamente un subconjunto de "expertos" especializados por palabra. Esto reduce significativamente los tiempos de cómputo y el coste por token en Mosaic AI Model Serving, manteniendo una precisión similar a modelos densos mucho más grandes.
-    
-*   **El efecto "Lost in the Middle":** Aunque incrementemos la ventana de contexto de un modelo (por ejemplo, a 32K o 128K tokens), la atención del LLM decae en la zona media de la entrada. Los datos cruciales para la consulta deben colocarse al principio o al final del prompt, o filtrarse rigurosamente antes mediante Vector Search para evitar que se pasen por alto.
-    
-*   **Cálculo de Tokens:** Recuerda que la correspondencia habitual en inglés es de aproximadamente **1 token ≈ 0.75 palabras** (o 100 tokens ≈ 75 palabras). Este factor es vital al estimar costes de API, límites de cuotas y la longitud total permitida en tu ventana de contexto.
-    
-*   **Flujo RAG de Extremo a Extremo en Databricks:** La arquitectura RAG empresarial en Databricks se integra de forma nativa:
-    
-    1.  Los datos sin procesar se almacenan y actualizan en **Delta Lake**.
-        
-    2.  Se procesan y convierten en embeddings con modelos alojados en **Model Serving**.
-        
-    3.  Los vectores se indexan en **Mosaic AI Vector Search**, el cual se sincroniza en tiempo real de forma automática.
-        
-    4.  Todo el flujo, desde las tablas origen hasta el endpoint de inferencia, queda registrado y gobernado bajo **Unity Catalog** para garantizar el cumplimiento normativo y el control de accesos.
-        
-
-¿Qué concepto de este repaso te ha parecido el más retador? ¡Cuéntame en los comentarios y sigamos construyendo este puente al Machine Learning!
+* **DBRX y MoE**: Activa expertos específicos en lugar de toda la red, reduciendo el costo por token en Mosaic AI Model Serving.
+* **Lost in the Middle**: Coloca la información crítica siempre al principio o al final de tus prompts de entrada.
+* **Relación de tokens**: Considera que 100 tokens equivalen aproximadamente a 75 palabras en inglés para tus cálculos de costos.
+* **Ciclo de RAG empresarial**: La sincronización es automática desde Delta Lake a Vector Search y todo queda bajo la gobernanza de Unity Catalog.
