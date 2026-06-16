@@ -30,19 +30,19 @@ El siguiente es un payload típico de solicitud HTTP para el endpoint `/chat`:
 [
   {
     "role": "system", 
-    "content": "Eres un analista de datos sénior especializado en Databricks SQL. Tus respuestas deben limitarse estrictamente a código SQL válido, sin explicaciones ni marcas de markdown adicionales."
+    "content": "Eres un analista SQL. Responde solo con codigo SQL limpio."
   },
   {
     "role": "user", 
-    "content": "¿Cómo calculo el total de ventas del año actual agrupado por región comercial?"
+    "content": "¿Como calculo el total de ventas agrupado por region?"
   },
   {
     "role": "assistant", 
-    "content": "SELECT region, SUM(amount) AS total_sales FROM gold.sales WHERE year = YEAR(CURRENT_DATE()) GROUP BY region;"
+    "content": "SELECT region, SUM(amount) FROM sales GROUP BY region;"
   },
   {
     "role": "user", 
-    "content": "Modifica la consulta previa para filtrar solo las regiones con ventas superiores a un millón de USD."
+    "content": "Filtra las regiones con ventas mayores a un millon de USD."
   }
 ]
 ```
@@ -84,7 +84,9 @@ El diseño del flujo de inferencia determina la latencia, el costo en tokens y l
 * **Cuándo usar**: Para tareas donde la directriz es inequívoca, simple o el modelo base tiene una alta representación estadística de la tarea en sus pesos de preentrenamiento.
 * **Ejemplo**:
   ```text
-  Traduce el siguiente texto al inglés técnico: "Nuestra arquitectura implementa Delta Lake en la capa de almacenamiento."
+  Traduce al inglés técnico:
+  "Nuestra arquitectura usa Delta Lake
+  en la capa de almacenamiento."
   ```
 
 ### 2. Few-Shot Prompting (In-Context Learning)
@@ -97,15 +99,15 @@ El diseño del flujo de inferencia determina la latencia, el costo en tokens y l
 
 * **Ejemplo**:
   ```text
-  Clasifica la severidad de este log de Databricks:
-  [INPUT] DBX-9218: Spark connection timeout after 30 seconds.
-  [OUTPUT] CRITICAL
+  Clasifica la severidad de este log:
+  [IN] DBX-9218: Spark timeout after 30s.
+  [OUT] CRITICAL
   
-  [INPUT] DBX-0102: Query execution completed successfully in 1.2s.
-  [OUTPUT] INFO
+  [IN] DBX-0102: Query completed in 1.2s.
+  [OUT] INFO
   
-  [INPUT] DBX-4412: Executor lost but driver recovered automatically.
-  [OUTPUT]
+  [IN] DBX-4412: Executor lost.
+  [OUT]
   ```
 
 ### 3. Chain-of-Thought (CoT - Cadena de Pensamiento)
@@ -172,7 +174,8 @@ En entornos productivos, no podemos procesar texto conversacional como: "Aquí t
 2. Validación nativa de esquemas. Las APIs modernas permiten pasar esquemas específicos (como modelos de Pydantic) para forzar al modelo a ajustarse estrictamente a esa estructura.
 3. Plantillas de prompts. Definir esquemas reutilizables donde inyectamos las variables de entrada del usuario de forma dinámica, manteniendo la consistencia de la llamada.
    ```python
-   template = "Analiza el siguiente texto de cliente: {customer_text}. Extrae únicamente el nombre y el producto."
+   template = """Analiza el texto de cliente: {text}
+   Extrae únicamente nombre y producto."""
    ```
 
 ---
