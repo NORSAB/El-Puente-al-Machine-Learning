@@ -12,7 +12,7 @@ tags: artificial-intelligence, machine-learning, databricks, llm, prompt-enginee
 
 ---
 
-Después de revisar las bases de los modelos de lenguaje y el ecosistema en el [Módulo 0: ¿Qué pasa realmente cuando le hablas a un LLM?](https://normansabillon.hashnode.dev/qu-pasa-realmente-cuando-le-hablas-a-un-llm), toca avanzar. Hoy nos enfocamos en el Módulo 1 de la certificación de Databricks: Prompt Engineering Avanzado.
+Después de revisar las bases de los modelos de lenguaje y el ecosistema en el [Módulo 0: ¿Qué pasa realmente cuando le hablas a un LLM?](https://normansabillon.hashnode.dev/m-dulo-0-qu-pasa-realmente-cuando-le-hablas-a-un-llm), toca avanzar. Hoy nos enfocamos en el Módulo 1 de la certificación de Databricks: Prompt Engineering Avanzado.
 
 Existe la idea equivocada de que diseñar prompts consiste solo en saber charlar con el modelo. En el desarrollo de software para empresas, las cosas cambian. Necesitamos estructurar y controlar los textos de entrada para asegurar respuestas estables, en formatos específicos y controlando el presupuesto en tokens.
 
