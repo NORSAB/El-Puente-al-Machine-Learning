@@ -1,11 +1,11 @@
 ---
-title: "¿Qué pasa realmente cuando le hablas a un LLM?"
+title: "Módulo 0: ¿Qué pasa realmente cuando le hablas a un LLM?"
 seoTitle: "¿Qué pasa realmente cuando le hablas a un LLM?"
 seoDescription: "Descubre qué pasa dentro de un LLM al procesar tu prompt. Entiende Transformers, tokens, embeddings y la arquitectura RAG con Databricks Mosaic AI.
 "
 datePublished: 2026-06-16T16:58:59.181Z
 cuid: cmqgvzlxj00000cgl012agcbs
-slug: qu-pasa-realmente-cuando-le-hablas-a-un-llm
+slug: m-dulo-0-qu-pasa-realmente-cuando-le-hablas-a-un-llm
 cover: https://cdn.hashnode.com/uploads/covers/689caf5773492fba4b653597/3af8886e-bb7e-46c2-ad42-f54cff98bd0b.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/689caf5773492fba4b653597/b37eaae9-8074-421f-adaa-12e1344e55ae.svg
 tags: machine-learning, databricks, llm, generative-ai, rag
